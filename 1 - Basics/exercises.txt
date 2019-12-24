@@ -1,0 +1,20 @@
+EXERCISE 1:
+
+# create a variable with value "test" and name as "myVariable"
+# create a if..else block that checks whether myVariable == "tester"
+#     and if true then print myVariable
+# create a function named myFunc and pass an arguement called as myVariable
+    # print myVariable  
+    # create a local variable called as mySecVariable with value "tester2" 
+    # create a global variable within the function as myThirdVariable with value "tester3"
+# execute the function
+# exit the function block and outside the function block print the myThirdVariable 
+
+EXCERCISES 2:
+
+# Create a function named myFunct
+# 
+
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+
