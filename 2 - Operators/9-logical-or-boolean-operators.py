@@ -58,3 +58,11 @@ if (isinstance(name, str) and (not name == 'test')):
 # returns boolean
 if (isinstance(name, str) or (not name == 'test')):
     print(name, 2)
+
+# Type Conversion blank string
+typeConversion = bool("")
+print("typeConversion", typeConversion)
+
+# Type Conversion string
+typeConversion = bool("I hate cybercrime")
+print("typeConversion", typeConversion)

@@ -29,3 +29,21 @@ print('mod:', mod)
 # Using operators for string
 strjoin = "Test" + " and Tester"
 print('strjoin:', strjoin)
+
+
+# Adding two boolean Truthy Values
+boolAdd = True + True
+print("boolAdd", boolAdd)
+
+# Adding two boolean Truthy and Falsy Values
+boolAdd = True + False
+print("boolAdd", boolAdd)
+
+# Adding two boolean Truthy and Numeric Values
+boolNumAdd = True + 2
+print("boolNumAdd", boolNumAdd)
+
+# Muliplying two boolean Truthy and Numeric Values
+boolMul = True * 2
+print("boolMul", boolMul)
+
