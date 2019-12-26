@@ -79,8 +79,12 @@
 # Wrong
 # from mod.filename import * as pr
 
-
-
+# # Error Handling using ImportError
+# try:
+# # Non-existent module
+#     import def
+# except ImportError:
+#     print('Module not found')
 
 
 print('__name__', __name__)

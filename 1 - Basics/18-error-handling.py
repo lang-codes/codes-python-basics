@@ -26,3 +26,10 @@ print(obj(12))
 # Will throw ZeroDivisionError and will be captured triggering respective except block
 print(obj(0))
 print(obj(1))
+
+# # Error Handling using ImportError
+# try:
+# # Non-existent module
+#     import def
+# except ImportError:
+#     print('Module not found')
