@@ -38,3 +38,11 @@ print(mul)
 var1, var2 = helloMultiple(
     'Testing Multiple returns captured in multiple values')
 print(var1, var2)
+
+# Single line functions can also be defined
+# It may act as a replacement for anonymous lamda functions 
+#       where you need named reference or reuse of function definitions
+def func(x): return x
+
+
+
