@@ -1,3 +1,1147 @@
-# basics
-Basics of Syntax, and Classes
-[/CheatSheets/pandas.pdf](CheatSheets/pandas.pdf)
+
+        * PYTHON DEMO CODES
+
+
+        > These are set of codes intended to demostrate the most commonly used syntax usage with codes. They cover the most common use + implementation cases for most concepts and built in functionality. If you have more to add please do send a pull request.
+    
+    
+* 
+
+ - 
+ - [/README.md](/README.md)
+
+
+* 
+
+ - 
+ - [/test.py](/test.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/0-install.py](/1 - Basics/0-install.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/1-firstfile.py](/1 - Basics/1-firstfile.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/10-functions-args-argsDefaultValue-kwargs.py](/1 - Basics/10-functions-args-argsDefaultValue-kwargs.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/12-None-value.py](/1 - Basics/12-None-value.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/13-local-variables.py](/1 - Basics/13-local-variables.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/14-global-variable.py](/1 - Basics/14-global-variable.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/15-local-global-variable-usage.py](/1 - Basics/15-local-global-variable-usage.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/16-using-global-in-local.py](/1 - Basics/16-using-global-in-local.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/17-scope-rules.py](/1 - Basics/17-scope-rules.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/18-error-handling.py](/1 - Basics/18-error-handling.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/19-error-handling-specific-error.py](/1 - Basics/19-error-handling-specific-error.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/2-flowcontrol.py](/1 - Basics/2-flowcontrol.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/20-comments.py](/1 - Basics/20-comments.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/21-datatypes.py](/1 - Basics/21-datatypes.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/22-complexnumbers.py](/1 - Basics/22-complexnumbers.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/23-byte-bytesarray-memoryview.py](/1 - Basics/23-byte-bytesarray-memoryview.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/24-typeconversion.py](/1 - Basics/24-typeconversion.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/25-lamda-functions.py](/1 - Basics/25-lamda-functions.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/26-inbuilt-lamda-functions.py](/1 - Basics/26-inbuilt-lamda-functions.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/27-del keyword.py](/1 - Basics/27-del keyword.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/28-break-continue.py](/1 - Basics/28-break-continue.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/29-with-usage.py](/1 - Basics/29-with-usage.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/3-flowcontrol.py](/1 - Basics/3-flowcontrol.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/30-constants.py](/1 - Basics/30-constants.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/4-flowcontrol.py](/1 - Basics/4-flowcontrol.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/5-whileloop.py](/1 - Basics/5-whileloop.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/6-whileloop-infinite.py](/1 - Basics/6-whileloop-infinite.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/7-whileloop-not.py](/1 - Basics/7-whileloop-not.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/8-forloop.py](/1 - Basics/8-forloop.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/9-functions.py](/1 - Basics/9-functions.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/constants.py](/1 - Basics/constants.py)
+
+
+* 
+
+ - 
+ - [/1 - Basics/exercises.txt](/1 - Basics/exercises.txt)
+
+
+* 
+
+ - 
+ - [/1 - Basics/11-functions-return-multiple-returns-single-line-expressions.py](/1 - Basics/11-functions-return-multiple-returns-single-line-expressions.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/1-assignment-operator.py](/2 - Operators/1-assignment-operator.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/10-membership-operators.py](/2 - Operators/10-membership-operators.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/2-arithmatic-operators.py](/2 - Operators/2-arithmatic-operators.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/3-assignment-augmented-operators.py](/2 - Operators/3-assignment-augmented-operators.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/4-assignment-augmented-operator-others.py](/2 - Operators/4-assignment-augmented-operator-others.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/5-multiple-assignments.py](/2 - Operators/5-multiple-assignments.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/6-multiple-assignments-errors.py](/2 - Operators/6-multiple-assignments-errors.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/7-comparision-operators.py](/2 - Operators/7-comparision-operators.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/8-comparision-identity-operators.py](/2 - Operators/8-comparision-identity-operators.py)
+
+
+* 
+
+ - 
+ - [/2 - Operators/9-logical-or-boolean-operators.py](/2 - Operators/9-logical-or-boolean-operators.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.1 - InbuiltTypes-String-Integer/2-strings-methods.py](/3 - Types/3.1 - InbuiltTypes-String-Integer/2-strings-methods.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.1 - InbuiltTypes-String-Integer/3-strings-as-lists.py](/3 - Types/3.1 - InbuiltTypes-String-Integer/3-strings-as-lists.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.1 - InbuiltTypes-String-Integer/4-strings-immutability.py](/3 - Types/3.1 - InbuiltTypes-String-Integer/4-strings-immutability.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.1 - InbuiltTypes-String-Integer/5-integer-intro.py](/3 - Types/3.1 - InbuiltTypes-String-Integer/5-integer-intro.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.1 - InbuiltTypes-String-Integer/6-integer-methods.py](/3 - Types/3.1 - InbuiltTypes-String-Integer/6-integer-methods.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.1 - InbuiltTypes-String-Integer/1-strings-intro.py](/3 - Types/3.1 - InbuiltTypes-String-Integer/1-strings-intro.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/1-lists.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/1-lists.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/10-methods-remove.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/10-methods-remove.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/11-methods-applyONWrongtype-errors-integer.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/11-methods-applyONWrongtype-errors-integer.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/12-methods-applyONWrongtype-errors-strings.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/12-methods-applyONWrongtype-errors-strings.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/13-methods-remove-valueerrors.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/13-methods-remove-valueerrors.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/14-methods-sort.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/14-methods-sort.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/15-methods-sort-alphabets.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/15-methods-sort-alphabets.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/16-methods-sort-type-error.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/16-methods-sort-type-error.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/17-indentation-exceptions.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/17-indentation-exceptions.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/18-list-reference.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/18-list-reference.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/19-list-passing-reference-function-args.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/19-list-passing-reference-function-args.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/2-list-errors.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/2-list-errors.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/20-list-copy.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/20-list-copy.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/21-list-deepcopy.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/21-list-deepcopy.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/22-reassignation-not-modification.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/22-reassignation-not-modification.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/23-strings-as-lists.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/23-strings-as-lists.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/24-strings-immutability.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/24-strings-immutability.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/25-tuples.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/25-tuples.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/26-tuples-error.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/26-tuples-error.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/27-function-return-tuples-multiple-returns.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/27-function-return-tuples-multiple-returns.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/3-list-manipulation.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/3-list-manipulation.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/4-list-loops.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/4-list-loops.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/5-list-for-loops.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/5-list-for-loops.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/6-list-methods-index.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/6-list-methods-index.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/6-methods.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/6-methods.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors-index.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors-index.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/8-methods-append.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/8-methods-append.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/9-methods-insert.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/9-methods-insert.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.2 - InbuiltTypes-ListsTuples/28-named-tuple.py](/3 - Types/3.2 - InbuiltTypes-ListsTuples/28-named-tuple.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/1-dictionaries.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/1-dictionaries.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/10-dictions-methods-setdefault.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/10-dictions-methods-setdefault.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/11-dictions-methods-setdefault-usage.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/11-dictions-methods-setdefault-usage.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/12-sets.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/12-sets.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/13-sets-manipulation.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/13-sets-manipulation.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/2-dictions-KeyErrors.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/2-dictions-KeyErrors.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/3-dictions-methods-keys.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/3-dictions-methods-keys.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/4-dictions-methods-values.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/4-dictions-methods-values.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/5-dictions-methods-items.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/5-dictions-methods-items.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/6-dictions-multiple-assignments.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/6-dictions-multiple-assignments.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/7-dictions-getting-truelists-from-methods.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/7-dictions-getting-truelists-from-methods.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/8-dictions-checking-key-existence.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/8-dictions-checking-key-existence.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/9-dictions-methods-get.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/9-dictions-methods-get.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/14-dictions-creating-dictions-using-for-loop-expressions.py](/3 - Types/3.3 - InbuiltTypes-DictionarySetArray/14-dictions-creating-dictions-using-for-loop-expressions.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.4 - OtherTypes-DataStructures/1-Array.py](/3 - Types/3.4 - OtherTypes-DataStructures/1-Array.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.4 - OtherTypes-DataStructures/2-Array-methods.py](/3 - Types/3.4 - OtherTypes-DataStructures/2-Array-methods.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.4 - OtherTypes-DataStructures/3-Time.py](/3 - Types/3.4 - OtherTypes-DataStructures/3-Time.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.4 - OtherTypes-DataStructures/4-Other-Inbuilt-DataTypes.py](/3 - Types/3.4 - OtherTypes-DataStructures/4-Other-Inbuilt-DataTypes.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.4 - OtherTypes-DataStructures/5-Other-DataType-Modules.py](/3 - Types/3.4 - OtherTypes-DataStructures/5-Other-DataType-Modules.py)
+
+
+* 
+
+ - 
+ - [/3 - Types/3.4 - OtherTypes-DataStructures/7-Datatypes-based-on-use-cases.py](/3 - Types/3.4 - OtherTypes-DataStructures/7-Datatypes-based-on-use-cases.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/1-classes-intro.py](/4 - Classes-inheritance-oops/1-classes-intro.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/12-iteration-of-objects.py](/4 - Classes-inheritance-oops/12-iteration-of-objects.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/13-classes-lifecycleOfClasses.py](/4 - Classes-inheritance-oops/13-classes-lifecycleOfClasses.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/14-classes-descriptors-gets-sets-adv.py](/4 - Classes-inheritance-oops/14-classes-descriptors-gets-sets-adv.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/15-classes-property-usage-prop-attr-diff-ex.py](/4 - Classes-inheritance-oops/15-classes-property-usage-prop-attr-diff-ex.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/17-classes-metaclass.py](/4 - Classes-inheritance-oops/17-classes-metaclass.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/18-classes-metaclasses-call-usage.py](/4 - Classes-inheritance-oops/18-classes-metaclasses-call-usage.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/19-classes-metaclasses-call-usage.py](/4 - Classes-inheritance-oops/19-classes-metaclasses-call-usage.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/16-classes-init_subclass.py](/4 - Classes-inheritance-oops/16-classes-init_subclass.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/21-classes-polymorphism.py](/4 - Classes-inheritance-oops/21-classes-polymorphism.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/2-classes-init-usage.py](/4 - Classes-inheritance-oops/2-classes-init-usage.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/22-classes-comparision-magic-methods.py](/4 - Classes-inheritance-oops/22-classes-comparision-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/23-classes-numeric-unary-magic-methods.py](/4 - Classes-inheritance-oops/23-classes-numeric-unary-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/24-classes-numeric-normal-magic-methods.py](/4 - Classes-inheritance-oops/24-classes-numeric-normal-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/25-classes-numeric-reflected-arithmatic-magic-methods.py](/4 - Classes-inheritance-oops/25-classes-numeric-reflected-arithmatic-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/20-classes-metaclasses-convert-attr-to-upper.py](/4 - Classes-inheritance-oops/20-classes-metaclasses-convert-attr-to-upper.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/27-classes-type-conversion-magic-methods.py](/4 - Classes-inheritance-oops/27-classes-type-conversion-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/29-classes-attribute-access-magic-methods.py](/4 - Classes-inheritance-oops/29-classes-attribute-access-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/28-classes-representing-classes-magic-methods.py](/4 - Classes-inheritance-oops/28-classes-representing-classes-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/30-classes-reflection-magic-methods.py](/4 - Classes-inheritance-oops/30-classes-reflection-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/31-classes-callable-objects-magic-methods.py](/4 - Classes-inheritance-oops/31-classes-callable-objects-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/3-classes-private-variables-usage.py](/4 - Classes-inheritance-oops/3-classes-private-variables-usage.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/32-classes-context-manager-magic-methods.py](/4 - Classes-inheritance-oops/32-classes-context-manager-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/33-classes-abstract-base-classes-magic-methods.py](/4 - Classes-inheritance-oops/33-classes-abstract-base-classes-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/34-classes-descriptor-magic-methods.py](/4 - Classes-inheritance-oops/34-classes-descriptor-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/35-classes-copying-magic-methods.py](/4 - Classes-inheritance-oops/35-classes-copying-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/36-classes-pickling-magic-methods.py](/4 - Classes-inheritance-oops/36-classes-pickling-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/38-classes-static-classes.py](/4 - Classes-inheritance-oops/38-classes-static-classes.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/37-classes-abstract-classes.py](/4 - Classes-inheritance-oops/37-classes-abstract-classes.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/4-classes-inheritance-isinstance-issubclass.py](/4 - Classes-inheritance-oops/4-classes-inheritance-isinstance-issubclass.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/5-classes-overriding-overwriting-overloading.py](/4 - Classes-inheritance-oops/5-classes-overriding-overwriting-overloading.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/6-classes-child-private-variable-access.py](/4 - Classes-inheritance-oops/6-classes-child-private-variable-access.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/7-classes-as-object.py](/4 - Classes-inheritance-oops/7-classes-as-object.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/39-classes-dataclasses-interface.py](/4 - Classes-inheritance-oops/39-classes-dataclasses-interface.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/10-classes-inheritance-multiple-classes.py](/4 - Classes-inheritance-oops/10-classes-inheritance-multiple-classes.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/8-classes-simple-inheritance-super-instantiation.py](/4 - Classes-inheritance-oops/8-classes-simple-inheritance-super-instantiation.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/30-classes-custom-sequences-magic-methods.py](/4 - Classes-inheritance-oops/30-classes-custom-sequences-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/26-classes-numeric-augmented-assignment-magic-methods.py](/4 - Classes-inheritance-oops/26-classes-numeric-augmented-assignment-magic-methods.py)
+
+
+* 
+
+ - 
+ - [/4 - Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py](/4 - Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/0 - imports - import key usage/1 - import - key usage/mainfile.py](/5 - Modules/0 - imports - import key usage/1 - import - key usage/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/0 - imports - import key usage/1 - import - key usage/mod/filename.py](/5 - Modules/0 - imports - import key usage/1 - import - key usage/mod/filename.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/0 - imports - import key usage/2 - multiple imports/mainfile.py](/5 - Modules/0 - imports - import key usage/2 - multiple imports/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/__init__.py](/5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/__init__.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/inputs.py](/5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/inputs.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/prints.py](/5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/prints.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/0 - imports - import key usage/3 - packages/mainfile.py](/5 - Modules/0 - imports - import key usage/3 - packages/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/1 - imports - import key/mainfile.py](/5 - Modules/1 - imports - import key/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/1 - imports - import key/print.py](/5 - Modules/1 - imports - import key/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/.pypirc](/5 - Modules/10 - packages - whl file/.pypirc)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/demomain.py](/5 - Modules/10 - packages - whl file/demomain.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/README.md](/5 - Modules/10 - packages - whl file/README.md)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/setup.py](/5 - Modules/10 - packages - whl file/setup.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/license](/5 - Modules/10 - packages - whl file/license)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/sample-setup.py](/5 - Modules/10 - packages - whl file/sample-setup.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/m/__init__.py](/5 - Modules/10 - packages - whl file/m/__init__.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/m/numvars.py](/5 - Modules/10 - packages - whl file/m/numvars.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/m/printme.py](/5 - Modules/10 - packages - whl file/m/printme.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/10 - packages - whl file/m/strvars.py](/5 - Modules/10 - packages - whl file/m/strvars.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/2 - imports - from x import single functionORobject/mainfile.py](/5 - Modules/2 - imports - from x import single functionORobject/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/2 - imports - from x import single functionORobject/print.py](/5 - Modules/2 - imports - from x import single functionORobject/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/3 - imports - multiple/print.py](/5 - Modules/3 - imports - multiple/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/3 - imports - multiple/mainfile.py](/5 - Modules/3 - imports - multiple/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/4 - imports - from x import star/print.py](/5 - Modules/4 - imports - from x import star/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/4 - imports - from x import star/mainfile.py](/5 - Modules/4 - imports - from x import star/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/5 - importing - folders/mainfile.py](/5 - Modules/5 - importing - folders/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/5 - importing - folders/foo/print.py](/5 - Modules/5 - importing - folders/foo/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/6 - importing - creating - packages/mainfile.py](/5 - Modules/6 - importing - creating - packages/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/6 - importing - creating - packages/foo/__init__.py](/5 - Modules/6 - importing - creating - packages/foo/__init__.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/6 - importing - creating - packages/foo/print.py](/5 - Modules/6 - importing - creating - packages/foo/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/7 - importing - creating - packages - alternate/mainfile.py](/5 - Modules/7 - importing - creating - packages - alternate/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/7 - importing - creating - packages - alternate/foo/print.py](/5 - Modules/7 - importing - creating - packages - alternate/foo/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/7 - importing - creating - packages - alternate/foo/__init__.py](/5 - Modules/7 - importing - creating - packages - alternate/foo/__init__.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/7 - importing - creating - packages - alternate/foo/inputs.py](/5 - Modules/7 - importing - creating - packages - alternate/foo/inputs.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/8 - importing - creating - allowing specific packages/mainfile.py](/5 - Modules/8 - importing - creating - allowing specific packages/mainfile.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/8 - importing - creating - allowing specific packages/foo/__init__.py](/5 - Modules/8 - importing - creating - allowing specific packages/foo/__init__.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/8 - importing - creating - allowing specific packages/foo/inputs.py](/5 - Modules/8 - importing - creating - allowing specific packages/foo/inputs.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/8 - importing - creating - allowing specific packages/foo/print.py](/5 - Modules/8 - importing - creating - allowing specific packages/foo/print.py)
+
+
+* 
+
+ - 
+ - [/5 - Modules/9 - importing - defaultpackages/readme.txt](/5 - Modules/9 - importing - defaultpackages/readme.txt)
+
+
+* 
+
+ - 
+ - [/5 - Modules/9 - importing - defaultpackages/mainfile.py](/5 - Modules/9 - importing - defaultpackages/mainfile.py)
+
+
+* 
+
+ - 
+ - [/CheatSheets/GIT-eBook.pdf](/CheatSheets/GIT-eBook.pdf)
+
+
+* 
+
+ - 
+ - [/CheatSheets/Linux-Reference.pdf](/CheatSheets/Linux-Reference.pdf)
+
+
+* 
+
+ - 
+ - [/CheatSheets/MachineLearningAlgorithms.png](/CheatSheets/MachineLearningAlgorithms.png)
+
+
+* 
+
+ - 
+ - [/CheatSheets/Python-Intro.jpg](/CheatSheets/Python-Intro.jpg)
+
+
+* 
+
+ - 
+ - [/CheatSheets/Python-Loops-Classes-Files.jpg](/CheatSheets/Python-Loops-Classes-Files.jpg)
+
+
+* 
+
+ - 
+ - [/CheatSheets/Python-MathplotLib.jpg](/CheatSheets/Python-MathplotLib.jpg)
+
+
+* 
+
+ - 
+ - [/CheatSheets/Python-Unittest.jpg](/CheatSheets/Python-Unittest.jpg)
+
+
+* 
+
+ - 
+ - [/CheatSheets/Python-eBook.pdf](/CheatSheets/Python-eBook.pdf)
+
+
+* 
+
+ - 
+ - [/CheatSheets/Ubuntu-Reference.pdf](/CheatSheets/Ubuntu-Reference.pdf)
+
+
+* 
+
+ - 
+ - [/CheatSheets/pandas.pdf](/CheatSheets/pandas.pdf)
+
+
