@@ -19,4 +19,4 @@ with open("./README.md", mode="w", encoding="utf8") as f:
     """ + '\n')
     for fl in files:
         print('[{0}]({0})'.format(fl.lstrip('.')))
-        f.write('* \n\n - \n - [{0}]({0})'.format(fl.lstrip('.')) + '\n\n\n')
+        f.write('* Topic \n - [{0}]({0})'.format(fl.lstrip('.')) + '\n\n\n')
