@@ -22,5 +22,6 @@ with open("./README.md", mode="w", encoding="utf8") as f:
         f.write("""
 
 * Topic 
+
         """.format(fl.lstrip('.')))
         f.write("""[{0}](https://github.com/python-demo-codes/basics/blob/master{0})""".format(fl.lstrip('.')) + '\n\r')
