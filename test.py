@@ -11,7 +11,7 @@ for r, d, f in os.walk(path):
                 files.append(os.path.join(r, file))
 with open("./README.md", mode="w", encoding="utf8") as f:
     f.write("""
-        * PYTHON DEMO CODES
+        * PYTHON DEMO CODES \r
 
 
         > These are set of codes intended to demostrate the most commonly used syntax usage with codes. They cover the most common use + implementation cases for most concepts and built in functionality. If you have more to add please do send a pull request.
@@ -19,4 +19,4 @@ with open("./README.md", mode="w", encoding="utf8") as f:
     """ + '\n')
     for fl in files:
         print('[{0}]({0})'.format(fl.lstrip('.')))
-        f.write('* Topic \n - [{0}]({0})'.format(fl.lstrip('.')) + '\n\n\n')
+        f.write('* Topic \r - [{0}]({0})'.format(fl.lstrip('.')) + '\n')
