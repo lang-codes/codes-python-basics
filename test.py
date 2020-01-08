@@ -11,16 +11,16 @@ for r, d, f in os.walk(path):
                 files.append(os.path.join(r, file))
 with open("./README.md", mode="w", encoding="utf8") as f:
     f.write("""
-        * PYTHON DEMO CODES \r
+* PYTHON DEMO CODES
 
 
-        > These are set of codes intended to demostrate the most commonly used syntax usage with codes. They cover the most common use + implementation cases for most concepts and built in functionality. If you have more to add please do send a pull request.
+> These are set of codes intended to demostrate the most commonly used syntax usage with codes. They cover the most common use + implementation cases for most concepts and built in functionality. If you have more to add please do send a pull request.
     
     """ + '\n')
     for fl in files:
         print('[{0}]({0})'.format(fl.lstrip('.')))
         f.write("""
-        * Topic 
-        
+
+* Topic 
         """.format(fl.lstrip('.')))
-        f.write('[{0}](https://github.com/python-demo-codes/basics/blob/master{0})'.format(fl.lstrip('.')) + '\r')
+        f.write("""[{0}](https://github.com/python-demo-codes/basics/blob/master{0})""".format(fl.lstrip('.')) + '\n\r')
