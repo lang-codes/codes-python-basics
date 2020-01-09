@@ -2,7 +2,7 @@
 # https://dzone.com/articles/definitive-guide-how-use
 
 # Static methods in classes are used 
-#       without instntiation
+#       without instantiation
 # They are independant methods clubbed into classes
 # Purposes can be isolation, modularization, etc
 class Arithmatic:
