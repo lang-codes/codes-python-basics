@@ -376,11 +376,6 @@
 [./2 - Operators/1-assignment-operator.py](https://github.com/python-demo-codes/basics/blob/master/2%20-%20Operators/1-assignment-operator.py)
 
 
-##### Operators: Membership Operators Usage 
-
-[./2 - Operators/10-membership-operators.py](https://github.com/python-demo-codes/basics/blob/master/2%20-%20Operators/10-membership-operators.py)
-
-
 ##### Operators: Arithmatic Operators Usage 
 
 [./2 - Operators/2-arithmatic-operators.py](https://github.com/python-demo-codes/basics/blob/master/2%20-%20Operators/2-arithmatic-operators.py)
@@ -421,6 +416,11 @@
 [./2 - Operators/9-logical-or-boolean-operators.py](https://github.com/python-demo-codes/basics/blob/master/2%20-%20Operators/9-logical-or-boolean-operators.py)
 
 
+##### Operators: Membership Operators Usage 
+
+[./2 - Operators/10-membership-operators.py](https://github.com/python-demo-codes/basics/blob/master/2%20-%20Operators/10-membership-operators.py)
+
+
 ##### Data Types: String Methods 
 
 [./3 - Types/3.1 - InbuiltTypes-String-Integer/2-strings-methods.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.1%20-%20InbuiltTypes-String-Integer/2-strings-methods.py)
@@ -455,6 +455,55 @@
 
 [./3 - Types/3.2 - InbuiltTypes-ListsTuples/1-lists.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/1-lists.py)
 
+
+##### Data Types: List related error 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/2-list-errors.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/2-list-errors.py)
+
+
+##### Data Types: List Manipulation 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/3-list-manipulation.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/3-list-manipulation.py)
+
+
+##### Data Types: List loops 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/4-list-loops.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/4-list-loops.py)
+
+
+##### Data Types: Looping lists 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/5-list-for-loops.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/5-list-for-loops.py)
+
+
+##### Data Types: Method - index 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/6-list-methods-index.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/6-list-methods-index.py)
+
+
+##### Data Types: Methods 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/6-methods.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/6-methods.py)
+
+
+##### Data Types: Method - index related Error 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors-index.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/7-method-errors-index.py)
+
+
+##### Data Types: Method - Errors 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/7-method-errors.py)
+
+
+##### Data Types: Method - append 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/8-methods-append.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/8-methods-append.py)
+
+
+##### Data Types: Method - insert 
+
+[./3 - Types/3.2 - InbuiltTypes-ListsTuples/9-methods-insert.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/9-methods-insert.py)
 
 ##### Data Types: List methods - remove 
 
@@ -506,11 +555,6 @@
 [./3 - Types/3.2 - InbuiltTypes-ListsTuples/19-list-passing-reference-function-args.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/19-list-passing-reference-function-args.py)
 
 
-##### Data Types: List related error 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/2-list-errors.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/2-list-errors.py)
-
-
 ##### Data Types: List - copy 
 
 [./3 - Types/3.2 - InbuiltTypes-ListsTuples/20-list-copy.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/20-list-copy.py)
@@ -550,52 +594,6 @@
 
 [./3 - Types/3.2 - InbuiltTypes-ListsTuples/27-function-return-tuples-multiple-returns.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/27-function-return-tuples-multiple-returns.py)
 
-
-##### Data Types: List Manipulation 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/3-list-manipulation.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/3-list-manipulation.py)
-
-
-##### Data Types: List loops 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/4-list-loops.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/4-list-loops.py)
-
-
-##### Data Types: Looping lists 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/5-list-for-loops.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/5-list-for-loops.py)
-
-
-##### Data Types: Method - index 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/6-list-methods-index.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/6-list-methods-index.py)
-
-
-##### Data Types: Methods 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/6-methods.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/6-methods.py)
-
-
-##### Data Types: Method - index related Error 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors-index.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/7-method-errors-index.py)
-
-
-##### Data Types: Method - Errors 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/7-method-errors.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/7-method-errors.py)
-
-
-##### Data Types: Method - append 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/8-methods-append.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/8-methods-append.py)
-
-
-##### Data Types: Method - insert 
-
-[./3 - Types/3.2 - InbuiltTypes-ListsTuples/9-methods-insert.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/9-methods-insert.py)
-
-
 ##### Data Types: Named Tuple 
 
 [./3 - Types/3.2 - InbuiltTypes-ListsTuples/28-named-tuple.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.2%20-%20InbuiltTypes-ListsTuples/28-named-tuple.py)
@@ -604,26 +602,6 @@
 ##### Data Types: Dictionaries 
 
 [./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/1-dictionaries.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/1-dictionaries.py)
-
-
-##### Data Types: Method - setdefault usage 
-
-[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/10-dictions-methods-setdefault.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/10-dictions-methods-setdefault.py)
-
-
-##### Data Types: setdefault usage 2 
-
-[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/11-dictions-methods-setdefault-usage.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/11-dictions-methods-setdefault-usage.py)
-
-
-##### Data Types: Sets  
-
-[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/12-sets.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/12-sets.py)
-
-
-##### Data Types: Sets manipulation 
-
-[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/13-sets-manipulation.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/13-sets-manipulation.py)
 
 
 ##### Data Types: Dictionaries KeyErrors 
@@ -666,6 +644,26 @@
 [./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/9-dictions-methods-get.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/9-dictions-methods-get.py)
 
 
+##### Data Types: Method - setdefault usage 
+
+[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/10-dictions-methods-setdefault.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/10-dictions-methods-setdefault.py)
+
+
+##### Data Types: setdefault usage 2 
+
+[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/11-dictions-methods-setdefault-usage.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/11-dictions-methods-setdefault-usage.py)
+
+
+##### Data Types: Sets  
+
+[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/12-sets.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/12-sets.py)
+
+
+##### Data Types: Sets manipulation 
+
+[./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/13-sets-manipulation.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/13-sets-manipulation.py)
+
+
 ##### Data Types: Dictionaries - Create using single line for loops  
 
 [./3 - Types/3.3 - InbuiltTypes-DictionarySetArray/14-dictions-creating-dictions-using-for-loop-expressions.py](https://github.com/python-demo-codes/basics/blob/master/3%20-%20Types/3.3%20-%20InbuiltTypes-DictionarySetArray/14-dictions-creating-dictions-using-for-loop-expressions.py)
@@ -706,6 +704,51 @@
 [./4 - Classes-inheritance-oops/1-classes-intro.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/1-classes-intro.py)
 
 
+##### Classes and OOPs: Constructor \_\_init__ usage 
+
+[./4 - Classes-inheritance-oops/2-classes-init-usage.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/2-classes-init-usage.py)
+
+
+##### Classes and OOPs: Private attributes usage 
+
+[./4 - Classes-inheritance-oops/3-classes-private-variables-usage.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/3-classes-private-variables-usage.py)
+
+
+##### Classes and OOPs: Inheritance, isinstance, issubclass 
+
+[./4 - Classes-inheritance-oops/4-classes-inheritance-isinstance-issubclass.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/4-classes-inheritance-isinstance-issubclass.py)
+
+
+##### Classes and OOPs: Overwriting, Overiding, Overloading 
+
+[./4 - Classes-inheritance-oops/5-classes-overriding-overwriting-overloading.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/5-classes-overriding-overwriting-overloading.py)
+
+
+##### Classes and OOPs: Private attribute access 
+
+[./4 - Classes-inheritance-oops/6-classes-child-private-variable-access.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/6-classes-child-private-variable-access.py)
+
+
+##### Classes and OOPs: Classes as Objects 
+
+[./4 - Classes-inheritance-oops/7-classes-as-object.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/7-classes-as-object.py)
+
+
+##### Classes and OOPs: Multiple Inheritance - super() usage 
+
+[./4 - Classes-inheritance-oops/8-classes-simple-inheritance-super-instantiation.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/8-classes-simple-inheritance-super-instantiation.py)
+
+
+##### Classes and OOPs: Multiple Inheritance 
+
+[./4 - Classes-inheritance-oops/10-classes-inheritance-multiple-classes.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/10-classes-inheritance-multiple-classes.py)
+
+
+##### Classes and OOPs: Multiple Inheritance Parent classes instantiation 
+
+[./4 - Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py)
+
+
 ##### Classes and OOPs: Iteration of objects 
 
 [./4 - Classes-inheritance-oops/12-iteration-of-objects.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/12-iteration-of-objects.py)
@@ -726,6 +769,11 @@
 [./4 - Classes-inheritance-oops/15-classes-property-usage-prop-attr-diff-ex.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/15-classes-property-usage-prop-attr-diff-ex.py)
 
 
+##### Classes and OOPs: Constructor \_\_init__ usage 
+
+[./4 - Classes-inheritance-oops/16-classes-init_subclass.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/16-classes-init_subclass.py)
+
+
 ##### Classes and OOPs: Metaclasses 
 
 [./4 - Classes-inheritance-oops/17-classes-metaclass.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/17-classes-metaclass.py)
@@ -741,19 +789,14 @@
 [./4 - Classes-inheritance-oops/19-classes-metaclasses-call-usage.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/19-classes-metaclasses-call-usage.py)
 
 
-##### Classes and OOPs: Constructor \_\_init__ usage 
+##### Classes and OOPs: Metaclass - Manipulate attr, methods, bases, and \_\_dict__ definition before object creation using \_\_new__
 
-[./4 - Classes-inheritance-oops/16-classes-init_subclass.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/16-classes-init_subclass.py)
+[./4 - Classes-inheritance-oops/20-classes-metaclasses-convert-attr-to-upper.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/20-classes-metaclasses-convert-attr-to-upper.py)
 
 
 ##### Classes and OOPs: Polymorphism Concept 
 
 [./4 - Classes-inheritance-oops/21-classes-polymorphism.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/21-classes-polymorphism.py)
-
-
-##### Classes and OOPs: Constructor \_\_init__ usage 
-
-[./4 - Classes-inheritance-oops/2-classes-init-usage.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/2-classes-init-usage.py)
 
 
 ##### Classes and OOPs: Comparison Magic Methods 
@@ -776,9 +819,9 @@
 [./4 - Classes-inheritance-oops/25-classes-numeric-reflected-arithmatic-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/25-classes-numeric-reflected-arithmatic-magic-methods.py)
 
 
-##### Classes and OOPs: Metaclass - Manipulate attr, methods, bases, and \_\_dict__ definition before object creation using \_\_new__
+##### Classes and OOPs: Numeric, Augmented, Assignment Magic Methods 
 
-[./4 - Classes-inheritance-oops/20-classes-metaclasses-convert-attr-to-upper.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/20-classes-metaclasses-convert-attr-to-upper.py)
+[./4 - Classes-inheritance-oops/26-classes-numeric-augmented-assignment-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/26-classes-numeric-augmented-assignment-magic-methods.py)
 
 
 ##### Classes and OOPs: Type Conversion Magic Methods 
@@ -786,14 +829,19 @@
 [./4 - Classes-inheritance-oops/27-classes-type-conversion-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/27-classes-type-conversion-magic-methods.py)
 
 
+##### Classes and OOPs: Representation Magic Methods 
+
+[./4 - Classes-inheritance-oops/28-classes-representing-classes-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/28-classes-representing-classes-magic-methods.py)
+
+
 ##### Classes and OOPs: Attribute, Access Magic Methods 
 
 [./4 - Classes-inheritance-oops/29-classes-attribute-access-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/29-classes-attribute-access-magic-methods.py)
 
 
-##### Classes and OOPs: Representation Magic Methods 
+##### Classes and OOPs: Custom Sequences Magic Methods 
 
-[./4 - Classes-inheritance-oops/28-classes-representing-classes-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/28-classes-representing-classes-magic-methods.py)
+[./4 - Classes-inheritance-oops/30-classes-custom-sequences-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/30-classes-custom-sequences-magic-methods.py)
 
 
 ##### Classes and OOPs: Reflection Magic Methods 
@@ -804,11 +852,6 @@
 ##### Classes and OOPs: Callable, Objects Magic Methods 
 
 [./4 - Classes-inheritance-oops/31-classes-callable-objects-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/31-classes-callable-objects-magic-methods.py)
-
-
-##### Classes and OOPs: Private attributes usage 
-
-[./4 - Classes-inheritance-oops/3-classes-private-variables-usage.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/3-classes-private-variables-usage.py)
 
 
 ##### Classes and OOPs: Context Manager Magic Methods
@@ -836,64 +879,19 @@
 [./4 - Classes-inheritance-oops/36-classes-pickling-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/36-classes-pickling-magic-methods.py)
 
 
-##### Classes and OOPs: Static Classes and Methods 
-
-[./4 - Classes-inheritance-oops/38-classes-static-classes.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/38-classes-static-classes.py)
-
-
 ##### Classes and OOPs: Abstract Classes 
 
 [./4 - Classes-inheritance-oops/37-classes-abstract-classes.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/37-classes-abstract-classes.py)
 
 
-##### Classes and OOPs: Inheritance, isinstance, issubclass 
+##### Classes and OOPs: Static Classes and Methods 
 
-[./4 - Classes-inheritance-oops/4-classes-inheritance-isinstance-issubclass.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/4-classes-inheritance-isinstance-issubclass.py)
-
-
-##### Classes and OOPs: Overwriting, Overiding, Overloading 
-
-[./4 - Classes-inheritance-oops/5-classes-overriding-overwriting-overloading.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/5-classes-overriding-overwriting-overloading.py)
-
-
-##### Classes and OOPs: Private attribute access 
-
-[./4 - Classes-inheritance-oops/6-classes-child-private-variable-access.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/6-classes-child-private-variable-access.py)
-
-
-##### Classes and OOPs: Classes as Objects 
-
-[./4 - Classes-inheritance-oops/7-classes-as-object.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/7-classes-as-object.py)
+[./4 - Classes-inheritance-oops/38-classes-static-classes.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/38-classes-static-classes.py)
 
 
 ##### Classes and OOPs: @dataclass usage for interfaces mock 
 
 [./4 - Classes-inheritance-oops/39-classes-dataclasses-interface.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/39-classes-dataclasses-interface.py)
-
-
-##### Classes and OOPs: Multiple Inheritance 
-
-[./4 - Classes-inheritance-oops/10-classes-inheritance-multiple-classes.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/10-classes-inheritance-multiple-classes.py)
-
-
-##### Classes and OOPs: Multiple Inheritance - super() usage 
-
-[./4 - Classes-inheritance-oops/8-classes-simple-inheritance-super-instantiation.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/8-classes-simple-inheritance-super-instantiation.py)
-
-
-##### Classes and OOPs: Custom Sequences Magic Methods 
-
-[./4 - Classes-inheritance-oops/30-classes-custom-sequences-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/30-classes-custom-sequences-magic-methods.py)
-
-
-##### Classes and OOPs: Numeric, Augmented, Assignment Magic Methods 
-
-[./4 - Classes-inheritance-oops/26-classes-numeric-augmented-assignment-magic-methods.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/26-classes-numeric-augmented-assignment-magic-methods.py)
-
-
-##### Classes and OOPs: Multiple Inheritance Parent classes instantiation 
-
-[./4 - Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py)
 
 
 ##### Modules: import packageName - usage - 1 Single Import
