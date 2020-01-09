@@ -1,5 +1,5 @@
 # Generate README.md file
-
+ 
 import os
 path = './'
 files = []
