@@ -696,247 +696,112 @@
 [./4 - Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py](https://github.com/python-demo-codes/basics/blob/master/4%20-%20Classes-inheritance-oops/11-classes-multiple-inheritance-super-class-instantiation.py)
 
 
-##### Topic 
+##### Modules: import packageName - usage - 1 Single Import
 
-[./5 - Modules/0 - imports - import key usage/1 - import - key usage/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/1%20-%20import%20-%20key%20usage/mainfile.py)
+[./5 - Modules/0 - imports - import key usage/1 - import - key usage/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/)
 
 
-##### Topic 
+##### Modules: import packageName - usage - 2 Multiple Imports
 
-[./5 - Modules/0 - imports - import key usage/1 - import - key usage/mod/filename.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/1%20-%20import%20-%20key%20usage/mod/filename.py)
+[./5 - Modules/0 - imports - import key usage/2 - multiple imports/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/2%20-%20multiple%20imports/)
 
 
-##### Topic 
+##### Modules: Packages - usage
 
-[./5 - Modules/0 - imports - import key usage/2 - multiple imports/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/2%20-%20multiple%20imports/mainfile.py)
+[./5 - Modules/0 - imports - import key usage/3 - packages/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/3%20-%20packages/)
 
 
-##### Topic 
+##### Modules: import packageName 
 
-[./5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/__init__.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/2%20-%20multiple%20imports/mod/__init__.py)
+[./5 - Modules/1 - imports - import key/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/1%20-%20imports%20-%20import%20key/)
 
 
-##### Topic 
+##### Modules: Create .whl package file (python 3.x)  
 
-[./5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/inputs.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/2%20-%20multiple%20imports/mod/inputs.py)
+[./5 - Modules/10 - packages - whl file/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/)
 
 
-##### Topic 
+##### Modules: Imports - from xPackage import functionOrObject 
 
-[./5 - Modules/0 - imports - import key usage/2 - multiple imports/mod/prints.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/2%20-%20multiple%20imports/mod/prints.py)
+[./5 - Modules/2 - imports - from x import single functionORobject/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/2%20-%20imports%20-%20from%20x%20import%20single%20functionORobject/)
 
 
-##### Topic 
+##### Modules: Imports - Multiple 
 
-[./5 - Modules/0 - imports - import key usage/3 - packages/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/0%20-%20imports%20-%20import%20key%20usage/3%20-%20packages/mainfile.py)
+[./5 - Modules/3 - imports - multiple/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/3%20-%20imports%20-%20multiple/)
 
 
-##### Topic 
+##### Modules: Imports - from xPackage import \*  
 
-[./5 - Modules/1 - imports - import key/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/1%20-%20imports%20-%20import%20key/mainfile.py)
+[./5 - Modules/4 - imports - from x import star/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/4%20-%20imports%20-%20from%20x%20import%20star/)
 
 
-##### Topic 
+##### Modules: Importing Folders like Modules 
 
-[./5 - Modules/1 - imports - import key/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/1%20-%20imports%20-%20import%20key/print.py)
+[./5 - Modules/5 - importing - folders/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/5%20-%20importing%20-%20folders/)
 
 
-##### Topic 
+##### Modules: Importing Creating Packages 
 
-[./5 - Modules/10 - packages - whl file/.pypirc](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/.pypirc)
+[./5 - Modules/6 - importing - creating - packages/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/6%20-%20importing%20-%20creating%20-%20packages/)
 
 
-##### Topic 
+##### Modules: Importing Creating Packages - Alternative way 
 
-[./5 - Modules/10 - packages - whl file/demomain.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/demomain.py)
+[./5 - Modules/7 - importing - creating - packages - alternate/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/7%20-%20importing%20-%20creating%20-%20packages%20-%20alternate/)
 
 
-##### Topic 
+##### Modules: Allowing Specific Packages Import  
 
-[./5 - Modules/10 - packages - whl file/README.md](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/README.md)
+[./5 - Modules/8 - importing - creating - allowing specific packages/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/8%20-%20importing%20-%20creating%20-%20allowing%20specific%20packages/)
 
 
-##### Topic 
+##### Modules: Importing Default Packages 
 
-[./5 - Modules/10 - packages - whl file/setup.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/setup.py)
+[./5 - Modules/9 - importing - defaultpackages/](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/9%20-%20importing%20-%20defaultpackages/)
 
 
-##### Topic 
-
-[./5 - Modules/10 - packages - whl file/license](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/license)
-
-
-##### Topic 
-
-[./5 - Modules/10 - packages - whl file/sample-setup.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/sample-setup.py)
-
-
-##### Topic 
-
-[./5 - Modules/10 - packages - whl file/m/__init__.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/m/__init__.py)
-
-
-##### Topic 
-
-[./5 - Modules/10 - packages - whl file/m/numvars.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/m/numvars.py)
-
-
-##### Topic 
-
-[./5 - Modules/10 - packages - whl file/m/printme.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/m/printme.py)
-
-
-##### Topic 
-
-[./5 - Modules/10 - packages - whl file/m/strvars.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/10%20-%20packages%20-%20whl%20file/m/strvars.py)
-
-
-##### Topic 
-
-[./5 - Modules/2 - imports - from x import single functionORobject/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/2%20-%20imports%20-%20from%20x%20import%20single%20functionORobject/mainfile.py)
-
-
-##### Topic 
-
-[./5 - Modules/2 - imports - from x import single functionORobject/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/2%20-%20imports%20-%20from%20x%20import%20single%20functionORobject/print.py)
-
-
-##### Topic 
-
-[./5 - Modules/3 - imports - multiple/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/3%20-%20imports%20-%20multiple/print.py)
-
-
-##### Topic 
-
-[./5 - Modules/3 - imports - multiple/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/3%20-%20imports%20-%20multiple/mainfile.py)
-
-
-##### Topic 
-
-[./5 - Modules/4 - imports - from x import star/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/4%20-%20imports%20-%20from%20x%20import%20star/print.py)
-
-
-##### Topic 
-
-[./5 - Modules/4 - imports - from x import star/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/4%20-%20imports%20-%20from%20x%20import%20star/mainfile.py)
-
-
-##### Topic 
-
-[./5 - Modules/5 - importing - folders/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/5%20-%20importing%20-%20folders/mainfile.py)
-
-
-##### Topic 
-
-[./5 - Modules/5 - importing - folders/foo/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/5%20-%20importing%20-%20folders/foo/print.py)
-
-
-##### Topic 
-
-[./5 - Modules/6 - importing - creating - packages/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/6%20-%20importing%20-%20creating%20-%20packages/mainfile.py)
-
-
-##### Topic 
-
-[./5 - Modules/6 - importing - creating - packages/foo/__init__.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/6%20-%20importing%20-%20creating%20-%20packages/foo/__init__.py)
-
-
-##### Topic 
-
-[./5 - Modules/6 - importing - creating - packages/foo/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/6%20-%20importing%20-%20creating%20-%20packages/foo/print.py)
-
-
-##### Topic 
-
-[./5 - Modules/7 - importing - creating - packages - alternate/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/7%20-%20importing%20-%20creating%20-%20packages%20-%20alternate/mainfile.py)
-
-
-##### Topic 
-
-[./5 - Modules/7 - importing - creating - packages - alternate/foo/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/7%20-%20importing%20-%20creating%20-%20packages%20-%20alternate/foo/print.py)
-
-
-##### Topic 
-
-[./5 - Modules/7 - importing - creating - packages - alternate/foo/__init__.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/7%20-%20importing%20-%20creating%20-%20packages%20-%20alternate/foo/__init__.py)
-
-
-##### Topic 
-
-[./5 - Modules/7 - importing - creating - packages - alternate/foo/inputs.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/7%20-%20importing%20-%20creating%20-%20packages%20-%20alternate/foo/inputs.py)
-
-
-##### Topic 
-
-[./5 - Modules/8 - importing - creating - allowing specific packages/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/8%20-%20importing%20-%20creating%20-%20allowing%20specific%20packages/mainfile.py)
-
-
-##### Topic 
-
-[./5 - Modules/8 - importing - creating - allowing specific packages/foo/__init__.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/8%20-%20importing%20-%20creating%20-%20allowing%20specific%20packages/foo/__init__.py)
-
-
-##### Topic 
-
-[./5 - Modules/8 - importing - creating - allowing specific packages/foo/inputs.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/8%20-%20importing%20-%20creating%20-%20allowing%20specific%20packages/foo/inputs.py)
-
-
-##### Topic 
-
-[./5 - Modules/8 - importing - creating - allowing specific packages/foo/print.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/8%20-%20importing%20-%20creating%20-%20allowing%20specific%20packages/foo/print.py)
-
-
-##### Topic 
-
-[./5 - Modules/9 - importing - defaultpackages/readme.txt](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/9%20-%20importing%20-%20defaultpackages/readme.txt)
-
-
-##### Topic 
-
-[./5 - Modules/9 - importing - defaultpackages/mainfile.py](https://github.com/python-demo-codes/basics/blob/master/5%20-%20Modules/9%20-%20importing%20-%20defaultpackages/mainfile.py)
-
-
-##### Topic 
+##### GIT EBOOK CHEATSHEET 
 
 [./CheatSheets/GIT-eBook.pdf](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/GIT-eBook.pdf)
 
 
-##### Topic 
+##### LINUX REFERENCE CHEATSHEET 
 
 [./CheatSheets/Linux-Reference.pdf](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/Linux-Reference.pdf)
 
 
-##### Topic 
+##### PYTHON MACHINELEARNING CHEATSHEET 
 
 [./CheatSheets/MachineLearningAlgorithms.png](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/MachineLearningAlgorithms.png)
 
 
-##### Topic 
+##### PYTHON INTRODUCTION CHEATSHEET 
 
 [./CheatSheets/Python-Intro.jpg](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/Python-Intro.jpg)
 
 
-##### Topic 
+##### PYTHON LOOPS FILES 
 
 [./CheatSheets/Python-Loops-Classes-Files.jpg](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/Python-Loops-Classes-Files.jpg)
 
 
-##### Topic 
+##### PYTHON MATPLOTLIB CHEATSHEET 
 
 [./CheatSheets/Python-MathplotLib.jpg](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/Python-MathplotLib.jpg)
 
 
-##### Topic 
+##### PYTHON-UNIT TEST CHEATSHEET 
 
 [./CheatSheets/Python-Unittest.jpg](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/Python-Unittest.jpg)
 
 
-##### Topic 
+##### PYTHON EBOOK - LICENSED FREE SHARE 
 
 [./CheatSheets/Python-eBook.pdf](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/Python-eBook.pdf)
 
 
-##### Topic 
+##### UBUNTU/DEBIAN REFERENCE CHATSHEET
 
 [./CheatSheets/Ubuntu-Reference.pdf](https://github.com/python-demo-codes/basics/blob/master/CheatSheets/Ubuntu-Reference.pdf)
 
