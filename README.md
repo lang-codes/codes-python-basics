@@ -16,9 +16,54 @@
 [./1 - Basics/1-firstfile.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/1-firstfile.py)
 
 
+##### FlowControl 
+
+[./1 - Basics/2-flowcontrol.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/2-flowcontrol.py)
+
+
+##### FlowControl:  
+
+[./1 - Basics/3-flowcontrol.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/3-flowcontrol.py)
+
+
+##### FlowControl:   
+
+[./1 - Basics/4-flowcontrol.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/4-flowcontrol.py)
+
+
+##### FlowControl: While loops 
+
+[./1 - Basics/5-whileloop.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/5-whileloop.py)
+
+
+##### FlowControl: Infinite While loops and implications
+
+[./1 - Basics/6-whileloop-infinite.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/6-whileloop-infinite.py)
+
+
+##### FlowControl: While loops and using not Boolean Operator 
+
+[./1 - Basics/7-whileloop-not.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/7-whileloop-not.py)
+
+
+##### FlowControl: for loops 
+
+[./1 - Basics/8-forloop.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/8-forloop.py)
+
+
+##### Functions: Usage 
+
+[./1 - Basics/9-functions.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/9-functions.py)
+
+
 ##### Functions: Usage of Arguments, Keyword Arguments, and Default values to Arguments 
 
 [./1 - Basics/10-functions-args-argsDefaultValue-kwargs.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/10-functions-args-argsDefaultValue-kwargs.py)
+
+
+##### Functions: Multiple return values, Single line function expressions 
+
+[./1 - Basics/11-functions-return-multiple-returns-single-line-expressions.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/11-functions-return-multiple-returns-single-line-expressions.py)
 
 
 ##### Variables: Using None (Null value) and Alternative to Variable declaration without value
@@ -59,11 +104,6 @@
 ##### Error Handling: try...except ErrorName block 
 
 [./1 - Basics/19-error-handling-specific-error.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/19-error-handling-specific-error.py)
-
-
-##### FlowControl 
-
-[./1 - Basics/2-flowcontrol.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/2-flowcontrol.py)
 
 
 ##### Single and MultiLine Comments 
@@ -116,44 +156,9 @@
 [./1 - Basics/29-with-usage.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/29-with-usage.py)
 
 
-##### FlowControl:  
-
-[./1 - Basics/3-flowcontrol.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/3-flowcontrol.py)
-
-
 ##### Constants in Python
 
 [./1 - Basics/30-constants.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/30-constants.py)
-
-
-##### FlowControl:   
-
-[./1 - Basics/4-flowcontrol.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/4-flowcontrol.py)
-
-
-##### FlowControl: While loops 
-
-[./1 - Basics/5-whileloop.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/5-whileloop.py)
-
-
-##### FlowControl: Infinite While loops and implications
-
-[./1 - Basics/6-whileloop-infinite.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/6-whileloop-infinite.py)
-
-
-##### FlowControl: While loops and using not Boolean Operator 
-
-[./1 - Basics/7-whileloop-not.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/7-whileloop-not.py)
-
-
-##### FlowControl: for loops 
-
-[./1 - Basics/8-forloop.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/8-forloop.py)
-
-
-##### Functions: Usage 
-
-[./1 - Basics/9-functions.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/9-functions.py)
 
 
 ##### Constants: Support file 
@@ -165,10 +170,6 @@
 
 [./1 - Basics/exercises.txt](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/exercises.txt)
 
-
-##### Functions: Multiple return values, Single line for loops 
-
-[./1 - Basics/11-functions-return-multiple-returns-single-line-expressions.py](https://github.com/python-demo-codes/basics/blob/master/1%20-%20Basics/11-functions-return-multiple-returns-single-line-expressions.py)
 
 
 ##### Operators: Assignment Operators Usage 
