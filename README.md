@@ -3,8 +3,207 @@
 
 
 > These are set of codes intended to demostrate the most commonly used syntax usage with codes. They cover the most common use + implementation cases for most concepts and built in functionality. If you have more to add please do send a pull request.
-    
-    
+
+
+#### Basics
+* Basic Installation Steps 
+* Using Python with a file 
+* FlowControl 
+* FlowControl:  
+* FlowControl:   
+* FlowControl: While loops 
+* FlowControl: Infinite While loops and implications
+* FlowControl: While loops and using not Boolean Operator 
+* FlowControl: for loops 
+* FlowControl: break, continue keyword 
+* Functions: Usage 
+* Functions: Usage of Arguments, Keyword Arguments, and Default values to Arguments 
+* Functions: Multiple return values, Single line function expressions 
+* Variables: Using None (Null value) and Alternative to Variable declaration without value
+* Scope: Local Variables and Functions/Classes
+* Scope: Global Variables and Functions/Classes
+* Scope: Global Local Variables Usage 
+* Scope: Using Global keyword and Global Scope 
+* Scope: Common Scope Rules 
+* Error Handling: try...except block 
+* Error Handling: try...except ErrorName block 
+* Single and MultiLine Comments 
+* Data Type: Data Types 
+* Data Type: Complex Numbers 
+* Data Type: Bytes Array and Memory View 
+* Data Type: Type Conversion 
+* Functions: Lambda Functions 
+* Functions: Inbuilt Functions and Lambda usage
+* del keyword to Delete objects/Variables
+* Context Management and with keyword usage 
+* Constants in Python
+* Constants: Support file 
+* Excercises: Basics 
+
+
+#### Different Operators in Python
+* Operators: Assignment Operators Usage 
+* Operators: Membership Operators Usage 
+* Operators: Arithmatic Operators Usage 
+* Operators: Augmented Assignment Operators Usage 
+* Operators: Augmented Assignment Operators Usage 
+* Operators: Comparision Operators Usage  
+* Operators: Identity Comparision Operators Usage  
+* Operators: Boolean / Logical Operators Usage  
+* Destructuring: Multiple Assignments (Lists, Tuples, Dictionaries) 
+* Destructuring: Rules and Errors 
+
+
+#### Data Types: Lists
+* Syntax/Lexical Grammer, Data Types: Reassignation, not modification
+* Data Types: Lists 
+* Data Types: List methods - remove 
+* Data Types: Method usage apply on wrong types 
+* Data Types: Method usage apply on wrong types 2 
+* Data Types: Method remove - ValueErrors 
+* Data Types: Method - sort 
+* Data Types: Method - sort (alphabets) 
+* Data Types: sort - TypeError 
+* Data Types, Syntax/Lexical Grammer: Indentation Errors
+* Data Types: List reference 
+* Data Types: Passing lists as a reference as arguments into functions
+* Data Types: List related error 
+* Data Types: List - copy 
+* Data Types: List - deepcopy 
+* Data Types: List Manipulation 
+* Data Types: List loops 
+* Data Types: Looping lists 
+* Data Types: Method - index 
+* Data Types: Methods 
+* Data Types: Method - index related Error 
+* Data Types: Method - Errors 
+* Data Types: Method - append 
+* Data Types: Method - insert 
+
+
+#### Data Types: Tuple
+* Data Types: Strings behaviour as lists 
+* Data Types: Strings - Immutability 
+* Data Types: Tuples 
+* Data Types: Tuples - Error while trying to mutate or modify 
+* Data Types: Tuples as data type for multiple return values from functions
+* Data Types: Named Tuple 
+
+
+#### Data Types: Strings, Integers
+* Data Types: String Methods 
+* Data Types: Strings - Strings as lists 
+* Data Types: Strings - Immutability 
+* Data Types: Strings 
+* Data Types: Integers 
+* Data Types: Integers Methods
+
+
+#### Data Types: Dictionaries
+* Data Types: Dictionaries 
+* Data Types: Method - setdefault usage 
+* Data Types: setdefault usage 2 
+* Data Types: Dictionaries KeyErrors 
+* Data Types: Dictionaries Method - keys 
+* Data Types: Dictionaries Method - values 
+* Data Types: Dictionaries Method - items 
+* Data Types: Dictionaries - Mutiple assignation / Destructuring 
+* Data Types: Dictionaries to True Lists 
+* Data Types: Dictionaries - get existence of key 
+* Data Types: Dictionaries Method - get existence of key 
+* Data Types: Dictionaries - Create using single line for loops 
+
+
+#### Data Types: Sets
+* Data Types: Sets  
+* Data Types: Sets manipulation 
+
+
+#### Data Types: Arrays, Others
+* Data Types: Array (not inbuilt type) 
+* Data Types: Array Methods 
+* Data Types: Time (not inbuilt type) 
+* Data Types: Other Inbuilt Data Types 
+* Data Types: Other Data Types - Modules 
+* Data Types: Data Types Based on use cases 
+
+
+#### Classes and OOPs
+* Classes and OOPs: Classes Intro 
+* Classes and OOPs: Iteration of objects 
+* Classes and OOPs: Class Object Life Cycle
+* Classes and OOPs: Class Descriptors gets, sets
+* Classes and OOPs: Python Context - property, attribute difference
+* Classes and OOPs: Constructor \_\_init__ usage 
+* Classes and OOPs: Polymorphism Concept 
+* Classes and OOPs: Constructor \_\_init__ usage 
+* Classes and OOPs: Inheritance, isinstance, issubclass 
+* Classes and OOPs: Overwriting, Overiding, Overloading 
+* Classes and OOPs: Private attribute access 
+* Classes and OOPs: Multiple Inheritance 
+* Classes and OOPs: Multiple Inheritance - super() usage 
+* Classes and OOPs: Multiple Inheritance Parent classes instantiation 
+* Classes and OOPs: Classes as Objects 
+* Classes and OOPs: @dataclass usage for interfaces mock 
+* Classes and OOPs: Static Classes and Methods 
+* Classes and OOPs: Abstract Classes 
+
+
+#### Classes and Magic Methods
+* Classes and OOPs: Comparison Magic Methods 
+* Classes and OOPs: Numeric, Unary Magic Methods 
+* Classes and OOPs: Numeric, Normal Magic Methods 
+* Classes and OOPs: Numeric, Reflected Arithmatic Magic Methods 
+* Classes and OOPs: Type Conversion Magic Methods 
+* Classes and OOPs: Attribute, Access Magic Methods 
+* Classes and OOPs: Representation Magic Methods 
+* Classes and OOPs: Reflection Magic Methods 
+* Classes and OOPs: Callable, Objects Magic Methods 
+* Classes and OOPs: Private attributes usage 
+* Classes and OOPs: Context Manager Magic Methods
+* Classes and OOPs: Abstract Base class Magic Methods 
+* Classes and OOPs: Descriptor Magic Methods 
+* Classes and OOPs: Copying Magic Methods 
+* Classes and OOPs: Pickling (Magic Methods) 
+* Classes and OOPs: Custom Sequences Magic Methods 
+* Classes and OOPs: Numeric, Augmented, Assignment Magic Methods 
+
+
+#### Classes and Metaclasses
+* Classes and OOPs: Metaclasses 
+* Classes and OOPs: Metaclass with \_\_call__ usage 
+* Classes and OOPs: Metaclass with \_\_call__ usage 
+* Classes and OOPs: Metaclass - Manipulate attr, methods, bases, and \_\_dict__ definition before object creation using \_\_new__
+
+
+#### Modules and Packages
+* Modules: import packageName - usage - 1 Single Import
+* Modules: import packageName - usage - 2 Multiple Imports
+* Modules: Packages - usage
+* Modules: import packageName 
+* Modules: Create .whl package file (python 3.x)  
+* Modules: Imports - from xPackage import functionOrObject 
+* Modules: Imports - Multiple 
+* Modules: Imports - from xPackage import \*  
+* Modules: Importing Folders like Modules 
+* Modules: Importing Creating Packages 
+* Modules: Importing Creating Packages - Alternative way 
+* Modules: Allowing Specific Packages Import  
+* Modules: Importing Default Packages 
+
+
+#### Cheatsheets
+* GIT EBOOK CHEATSHEET 
+* LINUX REFERENCE CHEATSHEET 
+* PYTHON MACHINELEARNING CHEATSHEET 
+* PYTHON INTRODUCTION CHEATSHEET 
+* PYTHON LOOPS FILES 
+* PYTHON MATPLOTLIB CHEATSHEET 
+* PYTHON-UNIT TEST CHEATSHEET 
+* PYTHON EBOOK - LICENSED FREE SHARE 
+* UBUNTU/DEBIAN REFERENCE CHATSHEET
+* PANDAS DOC LINKS 
+
 
 ##### Basic Installation Steps 
 
