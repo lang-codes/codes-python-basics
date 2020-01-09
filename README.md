@@ -85,19 +85,20 @@
 * Data Types: Tuples 
 * Data Types: Tuples - Error while trying to mutate or modify 
 * Data Types: Tuples as data type for multiple return values from functions
+* Data Types: Strings behaviour as lists
+* Data Types: Strings - Immutability 
 * Data Types: Named Tuple 
 
 
 #### Data Types: Strings, Integers
+* Data Types: Strings 
 * Data Types: String Methods 
 * Data Types: Strings - Strings as lists 
 * Data Types: Strings - Immutability 
-* Data Types: Strings - Immutability 
-* Data Types: Strings behaviour as lists 
-* Data Types: Strings 
 * Data Types: Integers 
 * Data Types: Integers Methods
-
+* Data Types: Complex
+* Data Types: Complex Methods
 
 #### Data Types: Dictionaries
 * Data Types: Dictionaries 
@@ -116,8 +117,9 @@
 
 #### Data Types: Sets
 * Data Types: Sets  
-* Data Types: Sets manipulation 
-
+* Data Types: Sets manipulation and Methods
+* Data Types: FrozenSets  
+* Data Types: FrozenSets Methods
 
 #### Data Types: Arrays, Others
 * Data Types: Array (not inbuilt type) 
@@ -130,20 +132,20 @@
 
 #### Classes and OOPs
 * Classes and OOPs: Classes Intro 
-* Classes and OOPs: Iteration of objects 
-* Classes and OOPs: Class Object Life Cycle
-* Classes and OOPs: Class Descriptors gets, sets
-* Classes and OOPs: Python Context - property, attribute difference
 * Classes and OOPs: Constructor \_\_init__ usage 
-* Classes and OOPs: Polymorphism Concept 
+* Classes and OOPs: Class Object Life Cycle
+* Classes and OOPs: Python Context - property, attribute difference
+* Classes and OOPs: Class Descriptors gets, sets
 * Classes and OOPs: Constructor \_\_init__ usage 
 * Classes and OOPs: Inheritance, isinstance, issubclass 
-* Classes and OOPs: Overwriting, Overiding, Overloading 
-* Classes and OOPs: Private attribute access 
+* Classes and OOPs: Polymorphism Concept 
 * Classes and OOPs: Multiple Inheritance 
 * Classes and OOPs: Multiple Inheritance - super() usage 
 * Classes and OOPs: Multiple Inheritance Parent classes instantiation 
+* Classes and OOPs: Private attribute access 
+* Classes and OOPs: Overwriting, Overiding, Overloading
 * Classes and OOPs: Classes as Objects 
+* Classes and OOPs: Iteration of objects 
 * Classes and OOPs: @dataclass usage for interfaces mock 
 * Classes and OOPs: Static Classes and Methods 
 * Classes and OOPs: Abstract Classes 
