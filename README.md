@@ -8,18 +8,19 @@
 #### Basics
 * Basic Installation Steps 
 * Using Python with a file 
-* FlowControl 
+* Single and MultiLine Comments 
+* Variables: Using None (Null value) and Alternative to Variable declaration without value
+* FlowControl: 
 * FlowControl:  
 * FlowControl:   
+* FlowControl: for loops 
 * FlowControl: While loops 
 * FlowControl: Infinite While loops and implications
 * FlowControl: While loops and using not Boolean Operator 
-* FlowControl: for loops 
 * FlowControl: break, continue keyword 
 * Functions: Usage 
 * Functions: Usage of Arguments, Keyword Arguments, and Default values to Arguments 
 * Functions: Multiple return values, Single line function expressions 
-* Variables: Using None (Null value) and Alternative to Variable declaration without value
 * Scope: Local Variables and Functions/Classes
 * Scope: Global Variables and Functions/Classes
 * Scope: Global Local Variables Usage 
@@ -27,7 +28,6 @@
 * Scope: Common Scope Rules 
 * Error Handling: try...except block 
 * Error Handling: try...except ErrorName block 
-* Single and MultiLine Comments 
 * Data Type: Data Types 
 * Data Type: Complex Numbers 
 * Data Type: Bytes Array and Memory View 
