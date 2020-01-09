@@ -82,8 +82,6 @@
 
 
 #### Data Types: Tuple
-* Data Types: Strings behaviour as lists 
-* Data Types: Strings - Immutability 
 * Data Types: Tuples 
 * Data Types: Tuples - Error while trying to mutate or modify 
 * Data Types: Tuples as data type for multiple return values from functions
@@ -94,6 +92,8 @@
 * Data Types: String Methods 
 * Data Types: Strings - Strings as lists 
 * Data Types: Strings - Immutability 
+* Data Types: Strings - Immutability 
+* Data Types: Strings behaviour as lists 
 * Data Types: Strings 
 * Data Types: Integers 
 * Data Types: Integers Methods
