@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Decribes how copy works with copy module
+# RESOURCES
+# 
 
 import copy
 spam = ['A', 'B', 'C', 'D']

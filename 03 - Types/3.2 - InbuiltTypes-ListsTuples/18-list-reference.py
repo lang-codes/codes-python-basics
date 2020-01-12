@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how a variable copying works
+# RESOURCES
+# 
 
 spam = 42
 # Copying not referencing

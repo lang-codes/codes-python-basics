@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes method on list objects
+# RESOURCES
+# 
 
 foo = ['hello', 'hi', 'howdy', 'heyas']
 

@@ -1,5 +1,10 @@
+# HEAD
+# INBUILT LAMDA FUNCTIONS
+# DESCRIPTION
 # Describes creation and usage of lamda functions
 # Lamda functions can be simple lamda or nested lamda functions
+# RESOURCES
+# 
 
 # LAMBDA FUNCTION
 

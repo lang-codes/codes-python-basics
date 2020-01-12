@@ -1,7 +1,14 @@
-# Describes the assigning, working, and method usages of sets
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
+# Describes the assigning, working usages 
+#       of Arrays using inubilt Library
+# RESOURCES
+# 
 
 # Importing Array module (all exports)
 from array import *
+
 
 # Alternate import statement
 # import array

@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes index method of lists
+# RESOURCES
+# 
 
 lists = ['hello', 'hi', 'howdy', 'heyas']
 # .index(item) gives access to index of an item

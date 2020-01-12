@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describe the usage of membership operators
+# RESOURCES
+# 
 
 # 'in' operator checks if an item is a part of 
 #       a sequence or iterator

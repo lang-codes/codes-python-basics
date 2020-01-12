@@ -1,5 +1,8 @@
+# HEAD
+# Python Functions - No Return, Single Return, Multiple returns
+# DESCRIPTION
 # Describes returning values from functions
-
+# 
 # Can have Single return value from function
 # 'return' value, when is a single return value 
 #       keeps the type in return statement
@@ -11,6 +14,8 @@
 #           functions as arguments to other functions, returning them as the 
 #           values from other functions, and assigning them to variables or 
 #           storing them in data structures.
+# RESOURCES
+# 
 
 # Return values can be captured in a variable 
 #       during invocation (Single or Multiple return values)
@@ -30,19 +35,52 @@
 # A function can pack multiple return values into a 
 #       different type but construct them into a different type like list or diction or set
 
+
+
+def no_return():
+    print("Testing no return statement")
+
+noreturn = no_return()
+# Following prints None
+print(noreturn)
+
+
+def blank_return():
+    print("Testing return statement with no value")
+    return
+
+blankreturn = blank_return()
+# Following prints None
+print(blankreturn)
+
+
+# Return values can be captured in a variable 
+#       during invocation (Single or Multiple return values)
+# Values can be destructured and assigned 
+#       to multiple variables (Multiple return values)
+#       The return values are of specific types as returned 
+#       and not a tuple in this case of destructuring.
+#       The number of items in the destructuring have to be
+#       the same as variables used for assignation.
+
+
+# Declaring a function with single return
 def hello(name):
     print('Howdy! ' + name)
     return name
 
-sing = hello('Testing Single Return')
-print(sing)
+singleret = hello('Testing Single Return')
+print(singleret)
 
 
-# Multiple return from function
+# Declaring a function with multiple return values
 def helloMultiple(name):
     print('Howdy! ' + name)
+    # Following two return statements are equal
+    # Explicit
+    # return ('name', name)
+    # Implicit
     return 'name', name
-
 
 # Capture multiple returns as a tuple
 mul = helloMultiple('Testing Multiple returns')
@@ -52,7 +90,6 @@ print(mul)
 var1, var2 = helloMultiple(
     'Testing Multiple returns captured in multiple values')
 print(var1, var2)
-
 
 # Return tuple (default) with multiple items from function
 def myfunReturnTupleImplicit():
@@ -78,6 +115,3 @@ def myfunReturnList():
 # It may act as a replacement for anonymous lamda functions 
 #       where you need named reference or reuse of function definitions
 def func(x): return x
-
-
-

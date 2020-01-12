@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
+# RESOURCES
+# 
 
 obj = {'color': 'red', 'age': 42}
 

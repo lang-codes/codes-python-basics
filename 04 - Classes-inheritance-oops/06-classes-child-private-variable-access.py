@@ -1,4 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how parent and child access works in inheritance
+# RESOURCES
+# 
+
 
 # Privacy is just a notion and denoted as following:
 # __attribute refers to the fact that attribute is private

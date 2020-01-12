@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes usage of remove method
+# RESOURCES
+# 
 
 # USAGE
 # .remove(item)

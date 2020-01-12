@@ -1,4 +1,9 @@
-# OTHER INBUILT DATA TYPES
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
+# Describes OTHER INBUILT DATA TYPES
+# RESOURCES
+# 
 
 # Functions
 

@@ -1,6 +1,11 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how strings are immutable
 # String cannot be manipulated or reassigned in place
 # Only a new entire string value can be re-assigned to a variable
+# RESOURCES
+# 
 
 name = 'Zophie a cat'
 name[7] = 'the'

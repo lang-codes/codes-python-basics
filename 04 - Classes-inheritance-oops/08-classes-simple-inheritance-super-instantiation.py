@@ -1,6 +1,11 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Concept implementing Simple Inheritence 
 #       with passage of args to one parent 
 #       using super().__init(arg)
+# RESOURCES
+# 
 
 class Body:
     body = None

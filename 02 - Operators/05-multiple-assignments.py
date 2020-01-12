@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how multiple assignment works
+# RESOURCES
+# 
 
 # Works on sequences(lists/tuples), etc
 # The number of variables have to be "same" as number of items
@@ -25,4 +30,4 @@ def helloMultiple(name):
 # destructring can be applied to all sequences and dictionaries
 var1, var2 = helloMultiple(
     'Testing Multiple returns captured in multiple values')
-print(var1, var2)
+print(var1, ",", var2)

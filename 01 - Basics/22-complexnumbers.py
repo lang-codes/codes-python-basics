@@ -1,9 +1,14 @@
-# COMPLEX NUMBERS
-# https://en.m.wikipedia.org/wiki/Complex_number
-# Usage and behaviour in python codes
+# HEAD
+# # COMPLEX NUMBERS
+# DESCRIPTION
+# Describes the usage of Complex numbers
 # Complex numbers end with a 'j' key in the 
 #       end of the integer/float
 # Inbuilt function complex() creates a complex number
+# RESOURCES
+# 
+# https://en.m.wikipedia.org/wiki/Complex_number
+
 
 # USAGE
 # complex(real, imag)

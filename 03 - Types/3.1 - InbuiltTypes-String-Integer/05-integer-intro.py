@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes what is a integer and it details
+# RESOURCES
+# 
 
 # int() is a function that converts a 
 #       integer like characters or float to a integer

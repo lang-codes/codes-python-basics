@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how to create a simple class with init constuctor
+# RESOURCES
+# 
 
 # Properties - functions
 # https://docs.python.org/3/library/functions.html#property

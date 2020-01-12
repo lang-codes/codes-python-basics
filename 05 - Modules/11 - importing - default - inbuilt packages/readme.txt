@@ -1,0 +1,1 @@
+Timezone Handling in Python - https://docs.djangoproject.com/en/2.1/topics/i18n/timezones/

@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes simple usage of the time module using one function
+# RESOURCES
+# 
 
 import time
 import asyncio

@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the magic methods of classes
+# RESOURCES
+# 
 # https://rszalski.github.io/magicmethods/
 
 
@@ -34,5 +39,4 @@
 #     Implements bitwise or using the | operator.
 # __xor__(self, other)
 #     Implements bitwise xor using the ^ operator.
-
 

@@ -1,9 +1,14 @@
+# HEAD
+# Inbuilt Lambda Functions
+# DESCRIPTION
 # Describes some ibuilt lamda functions
-# INBUILT LAMDA FUNCTIONS
-# https://www.bogotobogo.com/python/python_fncs_map_filter_reduce.php
+# 
 # sorted(iterable[, key][, reverse])
 # sorted() have a key parameter to specify a
 # function to be called on each list element prior to making comparisons
+# RESOURCES
+# https://www.bogotobogo.com/python/python_fncs_map_filter_reduce.php
+# 
 
 from functools import reduce
 sortme = [

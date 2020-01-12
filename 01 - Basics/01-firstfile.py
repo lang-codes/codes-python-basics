@@ -1,5 +1,9 @@
-# Describe how to write a first program
-
+# HEAD
+# Python Basics - Variable and common inbuilt functions
+# DESCRIPTION
+# Describes how to work with a file, some 
+#       basic commonly used inbuilt functions
+# 
 # input() is a inbuilt function that takes input from user 
 #       in the command line
 # print() is a inbuilt function that takes a 
@@ -13,16 +17,30 @@
 #       but can be used
 # Variables do not have types description 
 #       like in typed languages
+# RESOURCES
+# 
+
 
 # This program says hello and asks for my name.
 # myName and myAge are variables that hold some data
 
 print('Hello world!')
-print('What is your name?')    # ask for their name
+
+# ask for their name - input
+# input() function takes the values as a string
+print('What is your name?') 
 myName = input()
+
+# printing myName
 print('It is good to meet you, ' + myName)
 print('The length of your name is:')
+
+# printing length of myName
 print(len(myName))
-print('What is your age?')    # ask for their age
+
+# ask for their age - input
+print('What is your age?')    
 myAge = input()
+
+# printing myAge+1 below
 print('You will be ' + str(int(myAge) + 1) + ' in a year.')

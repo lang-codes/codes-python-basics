@@ -1,3 +1,6 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes a tuple and working with its elements
 # Tuple is a sequence, iterator that can contain any type of items in it
 # A tuple can also have tuples or lists in them
@@ -6,6 +9,8 @@
 # A tuple is created using () or round brackets
 # A tuple item can be referenced by a index and the indexing starts with 0/zero
 # A tuple can be iterated or looped using 'for' or 'while' loops
+# RESOURCES
+# 
 
 # Simple list created using () brackets
 eggs = ('hello', 42, 0.5)

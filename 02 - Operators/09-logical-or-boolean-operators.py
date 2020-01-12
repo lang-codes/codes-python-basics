@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how boolean operators are used
+# RESOURCES
+# 
 
 # 'and', 'or', and 'not' keys are boolean operators
 # works on boolean values or conditions returning booleans

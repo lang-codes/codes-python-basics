@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Named Tuples
+# RESOURCES
+# 
 # https://docs.python.org/2/library/collections.html#collections.namedtuple
 # https://stackoverflow.com/questions/39345995/how-does-python-return-multiple-values-from-a-function
 

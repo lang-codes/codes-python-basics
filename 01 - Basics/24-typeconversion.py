@@ -1,4 +1,10 @@
+# HEAD
+# Type Conversion
+# DESCRIPTION
 # Describes typeconversion methods available in python
+# RESOURCES
+# 
+
 
 # These function can also be used to declare specific types
 # When appropriate object is used, these functions can be

@@ -1,5 +1,8 @@
+# HEAD
+# Python FlowControl - Decision flow
+# DESCRIPTION
 # Describes usage of if...elif...else statement
-
+# 
 # 'if' key creates a set of conditional 
 #       blocks of which one is triggered
 # 'if' key needs a condition to be fulfilled
@@ -9,7 +12,7 @@
 # There can one 'if' & one 'else'
 # Does not create a private/local scope of its own
 # Takes or shares scope of the level it is defined in
-
+# 
 # 'if' key has to have a condition that 
 #       returns a Boolean value
 # 'if' key can also be 
@@ -18,6 +21,9 @@
 # 'else' does not have a condition 
 #       and executes if any above 'if' or 'elif' 
 #       statements fails
+# RESOURCES
+# 
+
 
 # USAGE
 # if (conditions):
@@ -38,9 +44,7 @@ if name == 'Mary':
     else:
         print('Wrong password.')
 
-
 # SINGLE LINE FLOWCONTROL IF STATEMENT
-
 # value_when_true if condition else value_when_false
 # expression if (condition) else expression
 name = "string"

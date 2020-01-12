@@ -1,45 +1,49 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how to add attributes to a metaclass or re-implement the type __call__ methods
+# RESOURCES
+# 
 
+# /opt/pycharm/pycharm-community-2019.2.1/bin# sh pycharm.sh
 # Concept taken from following
 # https://github.com/django/django/blob/master/django/db/models/base.py
 
+# Creating a Base meta class using type
 class ModelBase(type):
-    # Attribute to be added
+    # Creating a method to be applied to all classed extending metaclass ModelBase
     def hello(cls):
-        print("Test from hello", type(cls))
-
-    # Redefining __init__
+        print("Test", type(cls))
+    # __new__ , __init__ , __call__ , __dict__
+    # Overriding implementation of __init__ of type and returning a class
     def __init__(cls, name, bases, dct):
-        print('bases from __init__', bases)
-        print('name from __init__', name)
-        print('dict from __init__', dct)
-        print('cls.__dict__ from __init__', cls.__dict__)
+        # Printing arguments
+        print('bases', bases)
+        print('name', name)
+        print('dict', dct)
+        print('cls.__dict__', cls.__dict__)
+        # Returning the class as is - No changes
+        # init passes an argument of cls or self
         return super(ModelBase, cls).__init__(cls)
 
-    # Redefining __call__
-    # Creating a new object instance
-    # Adding attrs
     def __call__(self, *args, **kwargs):
-        mydict = {'sayHello': self.hello}
-        print('args, kwargs from __call__', args, kwargs)
-        for a in args:
-            print('arg from __call__', a)
-            mydict[a] = a
-        # Call type method to create a class
-        # This class is going to be a new object
-        cls = type('ModelBase', (), mydict)
-        setattr(cls, "hello", self.hello)
-        return cls
+        # Adding hello and sayHello method
+        setattr(self, "hello", self.hello)
+        setattr(self, "sayHello", self.hello)
+        # Returning the modified class with two new methods
+        # Call does not pass a argument
+        return super(ModelBase, self).__call__()
 
 class MyTest(metaclass=ModelBase):
-        # Using a blank class since we are creating
-        # an common attr from __call__ and not __new__
-        pass
-
+        attributesname = 10
         # Creating a method testhello
-        # def testhello(self):
-        #     self.sayHello()
+        def testhello(self):
+            self.sayHello()
+            print("Printing class details inside of MyTest", type(self))
+
+# Instantiating MyTest class extended using the metaclass ModelBase
 obj = MyTest()
+# Checking availability of attributes/methods
 obj.sayHello()
-# This will get overridden since we are creating a new object inside __call__ of metaclass
-# obj.testhello()
+obj.hello()
+obj.testhello()

@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes errors thrown by remove method of list
+# RESOURCES
+# 
 
 lists = ['cat', 'bat', 'rat', 'elephant']
 lists.remove('chicken')

@@ -1,5 +1,11 @@
-# import statement, variations of import
-# __name__
+# HEAD
+# Modules - Introduction
+# DESCRIPTION
+# Describes usage of import statements and using a file as a import
+#       import statement, variations of import
+#       usage of __name__ and concept
+# RESOURCES
+# 
 
 # |----- /mod -----
 # |                |

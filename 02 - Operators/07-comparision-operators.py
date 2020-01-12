@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how comparision operators are used
+# RESOURCES
+# 
 
 # Comparision operators in a conditional expression checks for
 #       two values OR

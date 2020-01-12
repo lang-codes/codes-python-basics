@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes using loops on lists
+# RESOURCES
+# 
 
 # Using for loops to iterate over the items
 # allows access of items in list
@@ -21,4 +26,3 @@ for i in range(len(supplies)):
 # vals = [expression for value in collection if condition else expressionForFalsy]
 
 vals = [print("Even:", x) for x in range(10) if (not x%2)]
-

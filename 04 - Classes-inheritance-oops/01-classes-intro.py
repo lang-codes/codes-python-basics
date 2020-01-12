@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how to create a blank block and a simple class
+# RESOURCES
+# 
 
 # Class is created with a class key and name of the class
 # USAGE

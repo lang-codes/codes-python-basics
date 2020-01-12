@@ -1,5 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes string manipulation, methods available, 
 #       and it details
+# RESOURCES
+# 
 
 # len() is an inbuilt function that gives the number of characters in a string
 #       since string behaves like a iterator

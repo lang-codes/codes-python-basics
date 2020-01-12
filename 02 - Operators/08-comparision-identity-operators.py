@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how comparision identity operators are used
+# RESOURCES
+# 
 
 # Comparision Identity operators in a 
 #       conditional expression checks for

@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the magic methods of classes
+# RESOURCES
+# 
 # https://rszalski.github.io/magicmethods/
 
 # Type conversion magic methods

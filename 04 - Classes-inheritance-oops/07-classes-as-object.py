@@ -1,7 +1,13 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes 
-# working of instantiator, 
-# passing of values in constructor,
-# using objects as classes
+#       - working of instantiator, 
+#       - passing of values in constructor,
+#       - using objects as classes
+# RESOURCES
+# 
+
 
 # using classes as objects
 class Foo:

@@ -1,4 +1,9 @@
-# Describes tuple as a immutable object
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
+# Describes tuple as a immutable object - TypeError
+# RESOURCES
+# 
 
 eggs = ('hello', 42, 0.5)
 eggs[1] = 'immutability test'

@@ -1,3 +1,6 @@
+# HEAD
+# Using `continue` and `break` keys
+# DESCRIPTION
 # Describes usage of 'continue' and 'break' keys
 # 'continue' key skips execution of block 
 #       below it and continues to next
@@ -5,6 +8,8 @@
 # 'break' key will break out of the loop completely; 
 #       without further iteration
 #  PENDING: continue usage with functions to exit program
+# RESOURCES
+# 
 
 for i in range(0, 6, 1):
     if i == 3:

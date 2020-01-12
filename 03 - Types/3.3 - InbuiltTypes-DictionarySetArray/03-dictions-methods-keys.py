@@ -1,4 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
+#       .keys() - Error
+# RESOURCES
+# 
 
 # Dictions can be looped using keys, values, items, and key/value
 # The keys(), values(), and items() Methods

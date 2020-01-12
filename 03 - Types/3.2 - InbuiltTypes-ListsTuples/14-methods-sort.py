@@ -1,5 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes using sort on list based 
 #       of only integers or only alphabets
+# RESOURCES
+# 
 
 lists = [2, 5, 3.14, 1, -7]
 

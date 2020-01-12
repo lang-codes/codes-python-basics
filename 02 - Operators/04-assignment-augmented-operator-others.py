@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes basic usage of all the augmented operators available
+# RESOURCES
+# 
 
 foo = 40
 
@@ -20,6 +25,10 @@ print(foo)
 
 # Modulus augmented operator
 foo %= 3
+print(foo)
+
+# Modulus augmented operator
+foo //= 3
 print(foo)
 
 # Example Usage

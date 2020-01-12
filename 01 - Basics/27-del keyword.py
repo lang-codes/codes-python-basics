@@ -1,5 +1,12 @@
+# HEAD
+# Deleting objects - del key
+# DESCRIPTION
 # Describes deleting a variable using the 'del' key
 # del key works with variables, list/sequence items as well
+# Can help with cleaning objects from 
+#       memory known not to be used later
+# RESOURCES
+# 
 
 var = "some string"
 var_a = 23

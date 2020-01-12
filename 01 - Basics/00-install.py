@@ -1,3 +1,9 @@
+# HEAD
+# Python Basics
+# DESCRIPTION
+# Describe the basic setup, and development environment of Python
+# RESOURCES
+# 
 # ----------PYTHON----------
 
 # PYTHON ORG
@@ -18,6 +24,10 @@
 
 # https://code.visualstudio.com/
 #  Install executable
+
+# ----------ENVIRONMENT-------------
+
+# https://docs.python.org/3/using/cmdline.html
 
 # ----------PACKAGES-------------
 

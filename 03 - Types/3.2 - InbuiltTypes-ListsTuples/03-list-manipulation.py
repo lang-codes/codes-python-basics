@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes operations on lists
+# RESOURCES
+# 
 
 # Concatinating or adding two list items into one
 concatlist = [1, 2, 3] + ['A', 'B', 'C']

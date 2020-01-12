@@ -1,7 +1,13 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how strings behave as a list or a sequence
 # Strings can be referenced per character using indexes like lists
 # String indexing also starts from 0/Zero
 # Strings can be looped like lists
+# RESOURCES
+# 
+
 
 name = 'Zophie'
 print(name[0])

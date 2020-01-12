@@ -1,4 +1,8 @@
-# Describes creation of Abstract classes in Python
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
+# Describes the creation of Abstract classes in Python
+# RESOURCES
 # https://www.smartfile.com/blog/abstract-classes-in-python/
 
 # Usage
@@ -27,4 +31,3 @@ class Hary(Om):
 o = Hary()
 # print("test" in o)
 o.method(10)
-

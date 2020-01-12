@@ -1,5 +1,8 @@
+# HEAD
+# Python Basic Scoped Variables
+# DESCRIPTION
 # Describes the creation of globally scoped variable
-
+# 
 # global scope variables are defined in the 
 #       root level of script/process
 # global scope variables are available to any scope
@@ -10,6 +13,10 @@
 #       will be reference of a variable within the function
 # However, globally scoping behaviour changes 
 #       as soon as there is a local assignation
+# RESOURCES
+# 
+
+
 
 # Check accessDifferenceOne and accessDifferenceTwo function
 

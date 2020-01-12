@@ -1,4 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Decribes how deepcopy works with copy module
+# RESOURCES
+# 
+
 import copy
 
 # copy copies the reference of lists inside the lists

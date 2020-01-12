@@ -1,5 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes type of error when method 
 #       of list or one type used on another
+# RESOURCES
+# 
 
 foo = 'hello'
 

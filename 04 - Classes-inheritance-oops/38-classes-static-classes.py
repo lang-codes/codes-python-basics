@@ -1,4 +1,9 @@
+# HEAD
+# Data Class Annotation - @dataclass
+# DESCRIPTION
 # Describes the usage of static classes and methods
+# RESOURCES
+# 
 # https://dzone.com/articles/definitive-guide-how-use
 
 # Static methods in classes are used 

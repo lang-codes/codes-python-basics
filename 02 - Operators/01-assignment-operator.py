@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the usage of assignment function using '='
+# RESOURCES
+# 
 
 # Any value/datatype can be assigned
 # The variables dont need to know the types and they are

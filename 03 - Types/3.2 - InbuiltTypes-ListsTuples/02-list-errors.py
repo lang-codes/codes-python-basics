@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes errors of indexing when not inside the range
+# RESOURCES
+# 
 
 lists = ['cat', 'bat', 'rat', 'elephant']
 lists[10000]

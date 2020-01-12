@@ -1,9 +1,16 @@
-# Describes usage of for loop
-
+# HEAD
+# Python FlowControl - for loop
+# DESCRIPTION
+# Describes usage of for loop in different ways 
+#       for different usages
+# 
 # for loop can iterate over sequence or sequence like objects
 # range() is an inbuilt function that returns 
 #       results over time during iteration
 # range() returned a sequence in py2.x
+# RESOURCES
+# 
+
 
 # # USAGE
 # 1

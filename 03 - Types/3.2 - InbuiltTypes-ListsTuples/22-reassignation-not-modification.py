@@ -1,5 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how variable value assignation 
 #       and reassignation works
+# RESOURCES
+# 
 
 # Reassignation and not changing below
 eggs = [1, 2, 3]

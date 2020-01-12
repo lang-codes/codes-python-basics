@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes a list and working with its elements
+# RESOURCES
+# 
 
 # List is a sequence, iterator that can 
 #       contain any type of items in it

@@ -1,10 +1,19 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the magic methods of classes
+# RESOURCES
+# 
 # https://rszalski.github.io/magicmethods/
 
 
 # Pickling your own Objects
 
-# Pickling isn't just for built-in types. It's for any class that follows the pickle protocol. The pickle protocol has four optional methods for Python objects to customize how they act (it's a bit different for C extensions, but that's not in our scope):
+# Pickling isn't just for built-in types. 
+# It's for any class that follows the pickle protocol. 
+# The pickle protocol has four optional methods for Python 
+#       objects to customize how they act (it's a bit 
+#       different for C extensions, but that's not in our scope):
 
 # __getinitargs__(self)
 #     If you'd like for __init__ to be called when your class is unpickled, you can define __getinitargs__, which should return a tuple of the arguments that you'd like to be passed to __init__. Note that this method will only work for old-style classes.
@@ -21,7 +30,10 @@
 
 # An Example
 
-# Our example is a Slate, which remembers what its values have been and when those values were written to it. However, this particular slate goes blank each time it is pickled: the current value will not be saved.
+# Our example is a Slate, which remembers what its values 
+#       have been and when those values were written to it. 
+#       However, this particular slate goes blank each time 
+#       it is pickled: the current value will not be saved.
 
 # import time
 

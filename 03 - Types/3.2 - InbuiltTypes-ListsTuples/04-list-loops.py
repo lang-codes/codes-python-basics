@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes using loops on list
+# RESOURCES
+# 
 
 catNames = []
 

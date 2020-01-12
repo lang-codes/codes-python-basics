@@ -1,5 +1,10 @@
-# Describes integer manipulation, 
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
+# # Describes integer manipulation, 
 #       methods available, and it details
+# RESOURCES
+# 
 
 # Some Integer methods
 # .bit_length(), .conjugate(), .denominator (attr),

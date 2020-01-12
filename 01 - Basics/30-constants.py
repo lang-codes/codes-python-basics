@@ -1,11 +1,22 @@
+# HEAD
+# Working and Using Constants
+# DESCRIPTION
 # Describes constants in python
-
+# 
+# Concept of Constants types dont exist in Python
+# There are, however, inbuilt constants in python
+# Python follows CAP_PASCAL_CASE for constant variables naming
 # Constants are declared in python in a different module
 # Concept of constants dont exists in python
 # Generally represented in capitals
+# RESOURCES
+# 
+
+
 
 PI_ = 3.14
 print("PI_", PI_)
+
 # Following can be modified, so concept of constants dont apply
 PI_ = 3.15
 print("PI_ Changed", PI_)

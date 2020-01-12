@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the append method of lists
+# RESOURCES
+# 
 
 lists = ['cat', 'dog', 'bat']
 

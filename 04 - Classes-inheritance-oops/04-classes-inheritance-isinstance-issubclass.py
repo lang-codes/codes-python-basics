@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes how inheritance works in classes in python
+# RESOURCES
+# 
 
 # OVERRIDING (GOOD) AND POLYMORPHISM 
 # https://www.geeksforgeeks.org/polymorphism-in-python/

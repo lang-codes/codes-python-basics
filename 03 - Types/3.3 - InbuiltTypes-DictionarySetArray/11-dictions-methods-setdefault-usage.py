@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
+# RESOURCES
+# 
 
 # String variable
 message = 'It was a bright cold day in April, and the clocks were striking thirteen.'

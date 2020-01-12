@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes type of error when method of list or one type used on another
+# RESOURCES
+# 
 
 bacon = 42
 bacon.insert(1, 'world')

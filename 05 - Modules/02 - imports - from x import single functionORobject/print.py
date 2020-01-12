@@ -1,4 +1,12 @@
-# Describes usage of import statements and using a file as a import
+# HEAD
+# Modules - Understanding and using import key 
+#       for specific file module scoped object/function/variable
+# DESCRIPTION
+# Describes usage of import statements and 
+#       using a file as a import
+# RESOURCES
+# 
+
 
 # print module
 # since it is imported into another file the __name__ is

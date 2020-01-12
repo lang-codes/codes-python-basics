@@ -1,4 +1,9 @@
+# HEAD
+# Error Handling - using Named Exceptions in excepts
+# DESCRIPTION
 # Describe using of Error Handling of code in python
+# RESOURCES
+# 
 
 # 'try' will run always
 # 'try' will execute all statements till it encounters an error
@@ -28,7 +33,8 @@ try:
     print(obj(12))
     print(obj(0))
     print(obj(1))
-except ZeroDivisionError:  # Catch specific error
+except ZeroDivisionError:
+    # Catch specific error
     print('Error: Invalid argument.')
 finally:
     print('Finally Triggered.')

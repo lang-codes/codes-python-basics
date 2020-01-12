@@ -1,4 +1,9 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes the insert method of lists
+# RESOURCES
+# 
 
 # USAGE
 # .insert(index, item)

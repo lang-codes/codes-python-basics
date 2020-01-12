@@ -1,4 +1,11 @@
-# Describes usage of import statements and using a file as a import
+# HEAD
+# Modules - Understanding file modules and import key in Python
+# DESCRIPTION
+# Describes usage of import statements and 
+#       using a file as a import
+# RESOURCES
+# 
+
 
 # Describes what is a main module
 # https://stackoverflow.com/questions/419163/what-does-if-name-main-do

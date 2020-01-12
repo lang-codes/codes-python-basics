@@ -1,5 +1,10 @@
+# HEAD
+# Classes Abstract Classes
+# DESCRIPTION
 # Describes usage of sort with both 
 #       options of 'key' function and 'reverse' boolean
+# RESOURCES
+# 
 
 spam = ['A', 'a', 'z', 'A', 'Z']
 # key is a function
