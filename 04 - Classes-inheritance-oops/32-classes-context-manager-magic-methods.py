@@ -1,7 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Context Manager Implementation
 # DESCRIPTION
 # Describes the magic methods of classes
+#       enter, exit Magic Methods
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

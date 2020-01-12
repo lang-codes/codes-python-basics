@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Getter, Setters using @property annotation
 # DESCRIPTION
 # Describes using decorators/annotation to create getters and setters
 # RESOURCES

@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - overiding, overwriting, and overloading
 # DESCRIPTION
 # Describes overiding, overwriting, and overloading concepts
 # RESOURCES

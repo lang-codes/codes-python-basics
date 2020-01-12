@@ -1,4 +1,11 @@
+# HEAD
+# Classes - Magic Methods - Unary Numeric Magic Methods
+# DESCRIPTION
 # Describes the magic methods of classes
+#       pos, neg, abs, invert
+#       round, floor, ceil, trunc
+# RESOURCES
+# 
 # https://rszalski.github.io/magicmethods/
 
 

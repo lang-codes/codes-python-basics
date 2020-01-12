@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Creation of Custom Iteration Objects
 # DESCRIPTION
 # Describes creating an object that behaves like an iterator object
 # We have to define a __iter__ method and __next__ method

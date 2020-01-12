@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes Inheritence, super() usage
 # DESCRIPTION
 # Concept implementing Simple Inheritence 
 #       with passage of args to one parent 

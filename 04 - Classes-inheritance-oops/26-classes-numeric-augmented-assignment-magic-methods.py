@@ -1,7 +1,9 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Augmented Numeric Assignment methods
 # DESCRIPTION
 # Describes the magic methods of classes
+#       iadd, isub, imul, ifloordiv, idiv, itruediv, imod
+#       ipow, ilshift, irshift, iand, ior, ixor
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

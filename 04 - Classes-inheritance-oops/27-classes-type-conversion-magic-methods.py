@@ -1,7 +1,9 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Type Conversion
 # DESCRIPTION
 # Describes the magic methods of classes
+#       int, long, float, complex, 
+#       oct, hex, index, trunc, coerce
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

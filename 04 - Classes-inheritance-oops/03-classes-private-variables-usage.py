@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Private Variables Usage
 # DESCRIPTION
 # Describes how private variables are declared in a class
 # RESOURCES

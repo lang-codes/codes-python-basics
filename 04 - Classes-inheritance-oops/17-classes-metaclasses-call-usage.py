@@ -1,9 +1,11 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - MetaClasses - add attributes using call and setattr method
 # DESCRIPTION
-# Describes how to add attributes to a metaclass or re-implement the type __call__ methods
+# Describes how to add attributes to a 
+#       metaclass or re-implement the type __call__ and setattr methods
 # RESOURCES
 # 
+
 
 # Concept taken from following
 # https://github.com/django/django/blob/master/django/db/models/base.py

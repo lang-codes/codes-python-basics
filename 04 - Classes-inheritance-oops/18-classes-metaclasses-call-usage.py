@@ -1,9 +1,11 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - MetaClasses - add attributes using call method
 # DESCRIPTION
-# Describes how to add attributes to a metaclass or re-implement the type __call__ methods
+# Describes how to add attributes to a metaclass 
+#       or re-implement the type __call__ methods
 # RESOURCES
 # 
+
 
 # /opt/pycharm/pycharm-community-2019.2.1/bin# sh pycharm.sh
 # Concept taken from following

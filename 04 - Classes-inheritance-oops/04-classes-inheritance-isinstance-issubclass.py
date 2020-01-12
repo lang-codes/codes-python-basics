@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Inheritence, isinstance(), issubclass() usage
 # DESCRIPTION
 # Describes how inheritance works in classes in python
 # RESOURCES

@@ -1,4 +1,11 @@
+# HEAD
+# Classes - Magic Methods - Callable Objects 
+# DESCRIPTION
 # Describes the magic methods of classes
+#       init, call
+# RESOURCES
+# 
+
 # https://rszalski.github.io/magicmethods/
 
 

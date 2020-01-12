@@ -1,5 +1,5 @@
 # HEAD
-# Data Class Annotation - @dataclass
+# Data Static Class method usage
 # DESCRIPTION
 # Describes the usage of static classes and methods
 # RESOURCES

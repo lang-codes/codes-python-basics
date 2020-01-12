@@ -1,7 +1,10 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Class Representation
 # DESCRIPTION
 # Describes the magic methods of classes
+#       str, repr, unicode, format, 
+#       hash, nonzero, dir, sizeof
+
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

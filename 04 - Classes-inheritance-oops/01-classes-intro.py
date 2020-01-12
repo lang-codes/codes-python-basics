@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes Introduction
 # DESCRIPTION
 # Describes how to create a blank block and a simple class
 # RESOURCES

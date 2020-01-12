@@ -1,4 +1,10 @@
+# HEAD
+# Classes - Magic Methods - Comparison Methods
+# DESCRIPTION
 # Describes the magic methods of classes
+#        call, init
+# RESOURCES
+# 
 # https://rszalski.github.io/magicmethods/
 
 # Comparison magic methods

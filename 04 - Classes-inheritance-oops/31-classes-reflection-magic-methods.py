@@ -1,9 +1,11 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Reflection
 # DESCRIPTION
 # Describes the magic methods of classes
+#       instancecheck, subclasscheck
 # RESOURCES
 # 
+
 # https://rszalski.github.io/magicmethods/
 
 # Reflection

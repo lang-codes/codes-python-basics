@@ -1,7 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Copying
 # DESCRIPTION
 # Describes the magic methods of classes 
+#       copy(), deepcopy()
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

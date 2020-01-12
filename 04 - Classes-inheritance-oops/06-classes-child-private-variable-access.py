@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Access Modifiers, Scopes, and Privacy
 # DESCRIPTION
 # Describes how parent and child access works in inheritance
 # RESOURCES

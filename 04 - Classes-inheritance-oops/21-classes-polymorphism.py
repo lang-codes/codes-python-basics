@@ -1,5 +1,11 @@
+# HEAD
+# Classes - Polymorphism
+# DESCRIPTION
 # Describe the concept of polymorphism in a simple way
-# manual getter, setter for private (private notation) attr/props
+# Manual getter, setter for private (private notation) attr/props
+# RESOURCES
+# 
+
 
 class CommonVehicleAttributes:
     # Describe type of wheel specific to vehicle

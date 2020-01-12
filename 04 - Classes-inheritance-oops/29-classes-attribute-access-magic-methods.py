@@ -1,7 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Controlling Attribute Access
 # DESCRIPTION
 # Describes the magic methods of classes
+#       getattr, getattribute, setattribute, delattr
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

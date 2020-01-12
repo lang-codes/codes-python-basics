@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - as Objects with method access
 # DESCRIPTION
 # Describes 
 #       - working of instantiator, 

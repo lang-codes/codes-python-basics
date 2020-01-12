@@ -1,4 +1,10 @@
+# HEAD
+# Classes - Multiple Inheritence Classes usage - 2nd Example
+# DESCRIPTION
 # Describes multiple inheritance of class from multiple classes
+# RESOURCES
+# 
+
 
 # Declaration of first parent
 class Parent:

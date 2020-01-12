@@ -1,7 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Building Descriptor Objects
 # DESCRIPTION
 # Describes the magic methods of classes
+#       __get__, __set__, __delete__
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

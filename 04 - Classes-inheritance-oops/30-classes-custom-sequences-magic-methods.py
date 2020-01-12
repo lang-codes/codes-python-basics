@@ -1,7 +1,9 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Making Custom Sequences Methods
 # DESCRIPTION
 # Describes the magic methods of classes
+#       len, getitem, setitem, delitem, 
+#       iter, reversed, contains, missing 
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

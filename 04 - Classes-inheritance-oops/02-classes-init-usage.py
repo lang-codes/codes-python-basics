@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes Init Usage
 # DESCRIPTION
 # Describes how to create a simple class with init constuctor
 # RESOURCES

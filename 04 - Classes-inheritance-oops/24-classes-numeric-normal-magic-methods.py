@@ -1,7 +1,9 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Normal Numeric Magic Methods
 # DESCRIPTION
 # Describes the magic methods of classes
+#       add, sub, mul, floordiv, div, truediv, mod, 
+#       divmod, pow, lshift, rshift, and, or, xor
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

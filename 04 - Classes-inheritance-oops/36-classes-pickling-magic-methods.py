@@ -1,7 +1,10 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Pickling Concept
 # DESCRIPTION
 # Describes the magic methods of classes
+#       getinitargs, getnewargs, 
+#       getstate, setstate, 
+#       reduce, reduce_ex
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

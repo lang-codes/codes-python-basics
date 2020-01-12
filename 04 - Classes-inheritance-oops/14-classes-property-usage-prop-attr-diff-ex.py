@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Getters, Setters alternative way
 # DESCRIPTION
 # Describes creating of getters and setters in an alternative way
 # Internet says attributes and properties are interchangable 
@@ -7,7 +7,6 @@
 #       of the call `self` to get access of the class attr/prop/methods
 # RESOURCES
 # 
-
 
 
 # Defining Class C

@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Meta classes
 # DESCRIPTION
 # Describes usage of 
 #       metaclass for creating classes instead of 
@@ -7,7 +7,6 @@
 # Type to create class
 # RESOURCES
 # 
-
 
 
 # 3.3.3.1. Metaclasses

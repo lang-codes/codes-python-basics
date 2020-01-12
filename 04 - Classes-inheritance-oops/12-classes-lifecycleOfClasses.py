@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Life Cycle of Classes
 # DESCRIPTION
 # Describes the simple lifecycle of classes
 # RESOURCES

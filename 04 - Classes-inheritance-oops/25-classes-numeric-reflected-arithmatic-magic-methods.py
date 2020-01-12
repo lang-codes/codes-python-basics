@@ -1,7 +1,11 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Magic Methods - Reflected Arithmatic Operator Methods
 # DESCRIPTION
 # Describes the magic methods of classes
+#       radd, rsub, rmul, rfloordiv, 
+#       rdiv, rtruediv, rmod, rdivmod,
+#       rpow, rlshift, rrshift, rand
+#       ror, rxor
 # RESOURCES
 # 
 # https://rszalski.github.io/magicmethods/

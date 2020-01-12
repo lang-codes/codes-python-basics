@@ -1,7 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - MetaClasses Usage - add attributes
 # DESCRIPTION
-# Describes how to add attributes to a metaclass or re-implement the type methods/properties
+# Describes how to add attributes to a 
+#       metaclass or re-implement the type methods/properties
 # RESOURCES
 # 
 

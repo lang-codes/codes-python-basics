@@ -1,7 +1,16 @@
+# HEAD
+# Classes - Multiple Inheritence - 
+#       super() usage
+#       super().__init__() usage
+#       Parent class __init__() for second parent onwards
+# DESCRIPTION
 # Concept implementing multiple inheritence 
 #       with passage of args to two parents
 #       and usage of super().__init__(args)
 #       Parent.__init__(self, args)
+# RESOURCES
+# 
+
 
 class Body:
     body = None

@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Classes - Multiple Inheritence Classes usage
 # DESCRIPTION
 # Describes multiple inheritance of class from multiple classes
 # RESOURCES
