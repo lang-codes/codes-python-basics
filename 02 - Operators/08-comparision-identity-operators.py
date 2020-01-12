@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Comparision Indentity Operators
 # DESCRIPTION
 # Describes how comparision identity operators are used
 # RESOURCES

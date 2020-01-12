@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - append()
 # DESCRIPTION
 # Describes the append method of lists
 # RESOURCES

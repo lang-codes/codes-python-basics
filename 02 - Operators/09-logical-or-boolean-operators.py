@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Logical, Boolean Operators
 # DESCRIPTION
 # Describes how boolean operators are used
 # RESOURCES

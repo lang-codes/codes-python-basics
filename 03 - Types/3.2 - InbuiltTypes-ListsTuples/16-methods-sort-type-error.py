@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - sort() Usage Errors
 # DESCRIPTION
 # Describes the sort function for 
 #       both integer and alphabet lists

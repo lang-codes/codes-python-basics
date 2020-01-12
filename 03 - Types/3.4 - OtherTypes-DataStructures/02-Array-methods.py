@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Array methods
 # DESCRIPTION
 # Describes the assigning, working usages 
 #       of Arrays using inubilt Library

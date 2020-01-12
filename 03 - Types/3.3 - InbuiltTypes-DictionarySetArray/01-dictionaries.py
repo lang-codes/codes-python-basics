@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Dictionaries Introduction
 # DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
 # RESOURCES

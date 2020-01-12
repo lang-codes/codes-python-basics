@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List Access Errors
 # DESCRIPTION
 # Describes errors of indexing when not inside the range
 # RESOURCES

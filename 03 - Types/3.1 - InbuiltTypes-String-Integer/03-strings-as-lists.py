@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - String as Sequence/Tuples
 # DESCRIPTION
 # Describes how strings behave as a list or a sequence
 # RESOURCES

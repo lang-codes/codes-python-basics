@@ -1,5 +1,12 @@
+# HEAD
+# DataType - Sets Introduction
+# DESCRIPTION
 # Describes the assigning, working, and method usages of sets
 # Frozenset will not manipulator functions since they are immutable
+# RESOURCES
+# 
+
+
 
 # Using the set function to create a blank set
 set1 = set()

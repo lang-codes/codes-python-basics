@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method -index() Usage Error
 # DESCRIPTION
 # Describes index method of lists 
 #       and its error incase item is not there

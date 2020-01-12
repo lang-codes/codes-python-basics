@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Strings Immutability with Sequence/Tuples behaviour
 # DESCRIPTION
 # Describes how strings are immutable
 # String cannot be manipulated or reassigned in place

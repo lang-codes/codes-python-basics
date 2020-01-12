@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Augmented Assignment Operators
 # DESCRIPTION
 # Describes basic usage of augmented operators
 # RESOURCES

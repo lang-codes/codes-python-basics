@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Sets Introduction
 # DESCRIPTION
 # Describes the assigning, working, and method usages of sets
 # RESOURCES

@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List Copy
 # DESCRIPTION
 # Decribes how copy works with copy module
 # RESOURCES

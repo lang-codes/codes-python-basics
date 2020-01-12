@@ -1,10 +1,13 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Other Inbuilt Data Types 
+#       from Internal/External Libraries/Modules
 # DESCRIPTION
+# Describes Other Inbuilt Data Types
 # OTHER DATA TYPES BASED ON USE CASES
 #       DISCLAIMER: VERIFY BEFORE USAGE
 # RESOURCES
 # 
+
 
 
 # DATA STRUCTURES IMPLEMENTATION

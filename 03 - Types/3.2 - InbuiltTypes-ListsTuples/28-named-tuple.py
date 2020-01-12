@@ -1,7 +1,7 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Named Tuples
 # DESCRIPTION
-# Named Tuples
+# Working with Named Tuples
 # RESOURCES
 # 
 # https://docs.python.org/2/library/collections.html#collections.namedtuple

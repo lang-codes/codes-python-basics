@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Integer Introduction
 # DESCRIPTION
 # Describes what is a integer and it details
 # RESOURCES

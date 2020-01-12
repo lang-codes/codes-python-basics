@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Membership Operators
 # DESCRIPTION
 # Describe the usage of membership operators
 # RESOURCES

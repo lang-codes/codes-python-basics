@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Tuples Introduction
 # DESCRIPTION
 # Describes a tuple and working with its elements
 # Tuple is a sequence, iterator that can contain any type of items in it

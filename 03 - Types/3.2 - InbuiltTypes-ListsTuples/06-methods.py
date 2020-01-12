@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method -index()
 # DESCRIPTION
 # Describes method on list objects
 # RESOURCES

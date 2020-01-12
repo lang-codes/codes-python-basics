@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Assignment Operators
 # DESCRIPTION
 # Describes the usage of assignment function using '='
 # RESOURCES

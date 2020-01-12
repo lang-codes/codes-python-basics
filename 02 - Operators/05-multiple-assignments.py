@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Destructing or Multiple Assignment Operators
 # DESCRIPTION
 # Describes how multiple assignment works
 # RESOURCES

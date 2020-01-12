@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Strings with Sequence/Tuples behaviour
 # DESCRIPTION
 # Describes how strings behave as a list or a sequence
 # Strings can be referenced per character using indexes like lists

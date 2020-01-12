@@ -1,5 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Dictionaries .setdefault() method to
+#       to get value if key is there, else
+#       create a key and assign the value and 
+#       return the value
 # DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
 # RESOURCES

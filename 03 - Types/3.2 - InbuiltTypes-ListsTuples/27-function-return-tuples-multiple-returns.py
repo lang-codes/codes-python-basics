@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Tuples as return Type with Multiple Returns
 # DESCRIPTION
 # Describes multiple returns from functions returned as tuple 
 # Also referred to as destructuring

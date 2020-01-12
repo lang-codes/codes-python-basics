@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Variable Value or List Referencing
 # DESCRIPTION
 # Describes how a variable copying works
 # RESOURCES

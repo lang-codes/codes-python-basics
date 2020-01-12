@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - sort()
 # DESCRIPTION
 # Describes using sort on list based 
 #       of only integers or only alphabets

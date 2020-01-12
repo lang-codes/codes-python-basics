@@ -1,9 +1,11 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Other Inbuilt Data Types 
+#       from Internal/External Libraries/Modules
 # DESCRIPTION
 # Describes difference between STACK and QUEUE
 # RESOURCES
 # 
+
 
 
 # Stack and Queue both are the non-primitive abstract data structures

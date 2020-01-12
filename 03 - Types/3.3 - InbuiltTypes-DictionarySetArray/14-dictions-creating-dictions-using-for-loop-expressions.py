@@ -1,3 +1,12 @@
+# HEAD
+# DataType - Dictionaries using for expressions
+# DESCRIPTION
+# Create a diction from a list which has 
+#       items as keys and values
+# Single line expression using for loop single line expression
+# RESOURCES
+# 
+
 # Create a diction from a list which has 
 #       items as keys and values
 # Single line expression using for loop single line expression

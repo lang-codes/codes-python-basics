@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Lists Introduction
 # DESCRIPTION
 # Describes a list and working with its elements
 # RESOURCES

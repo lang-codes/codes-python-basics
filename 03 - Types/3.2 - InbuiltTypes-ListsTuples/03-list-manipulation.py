@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List Manipulation
 # DESCRIPTION
 # Describes operations on lists
 # RESOURCES

@@ -1,7 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Variable Value or List Referencing - function arguments
 # DESCRIPTION
-# Describes how referencing works in lists
+# Describes how Variable Value or List Referencing - 
+#       function arguments works in lists
 # RESOURCES
 # 
 

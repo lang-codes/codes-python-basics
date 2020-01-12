@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Integer Methods
 # DESCRIPTION
 # # Describes integer manipulation, 
 #       methods available, and it details

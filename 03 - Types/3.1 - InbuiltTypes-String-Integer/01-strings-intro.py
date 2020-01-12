@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - String Introduction
 # DESCRIPTION
 # Describes what is a string and it details
 # RESOURCES

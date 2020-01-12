@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Time type
 # DESCRIPTION
 # Describes simple usage of the time module using one function
 # RESOURCES

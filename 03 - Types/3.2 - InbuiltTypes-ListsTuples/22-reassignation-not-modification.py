@@ -1,5 +1,6 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Variable Value as list reassignation
+#       not modification
 # DESCRIPTION
 # Describes how variable value assignation 
 #       and reassignation works

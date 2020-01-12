@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Arithmatic Operators
 # DESCRIPTION
 # Describes all the operators related to arithmatic
 # RESOURCES

@@ -1,5 +1,6 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Dictionaries Getting True Lists from 
+#       methods like .keys(), .values(), .items()
 # DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
 # RESOURCES

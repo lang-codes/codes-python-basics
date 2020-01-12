@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - insert()
 # DESCRIPTION
 # Describes the insert method of lists
 # RESOURCES

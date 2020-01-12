@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Destructing or Multiple Assignment Operators
 # DESCRIPTION
 # Describe incorrect usage of 
 #       multiple assignation which throws error

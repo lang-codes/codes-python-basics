@@ -1,7 +1,7 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Other Inbuilt Data Types
 # DESCRIPTION
-# Describes OTHER INBUILT DATA TYPES
+# Describes/Details Other Inbuilt Data Types in python
 # RESOURCES
 # 
 

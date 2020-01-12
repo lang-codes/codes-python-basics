@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - remove()
 # DESCRIPTION
 # Describes usage of remove method
 # RESOURCES

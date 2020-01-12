@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - String Methods
 # DESCRIPTION
 # Describes string manipulation, methods available, 
 #       and it details

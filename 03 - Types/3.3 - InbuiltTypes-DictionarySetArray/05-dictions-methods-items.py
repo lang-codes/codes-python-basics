@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Dictionaries .items() methods
 # DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
 # RESOURCES

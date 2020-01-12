@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Tuples Immutability while reassignation or modification
 # DESCRIPTION
 # Describes tuple as a immutable object - TypeError
 # RESOURCES

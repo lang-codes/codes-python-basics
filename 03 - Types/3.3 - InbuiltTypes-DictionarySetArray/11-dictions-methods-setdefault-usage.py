@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Dictionaries .setdefault() method use cases 
 # DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
 # RESOURCES

@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - append() Usage Errors
 # DESCRIPTION
 # Describes type of error when method 
 #       of list or one type used on another

@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - remove() Usage Errors
 # DESCRIPTION
 # Describes errors thrown by remove method of list
 # RESOURCES

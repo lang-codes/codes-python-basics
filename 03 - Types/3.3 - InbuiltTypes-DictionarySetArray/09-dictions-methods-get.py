@@ -1,5 +1,7 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Dictionaries .get() key existence method
+#       Does not error out UNLIKE diction[key] method
+#       if the key is not present
 # DESCRIPTION
 # Describes the assigning, working, and method usages of dictionaries
 # RESOURCES

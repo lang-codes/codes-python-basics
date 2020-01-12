@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - String Immutability
 # DESCRIPTION
 # Describes how strings are immutable
 # RESOURCES

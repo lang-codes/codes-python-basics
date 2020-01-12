@@ -1,7 +1,8 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Other Inbuilt Data Types 
+#       from Internal/External Libraries/Modules
 # DESCRIPTION
-# Describes OTHER INBUILT DATA TYPES
+# Describes Other Inbuilt Data Types
 # RESOURCES
 # 
 

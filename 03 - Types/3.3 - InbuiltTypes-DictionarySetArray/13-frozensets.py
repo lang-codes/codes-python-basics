@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - FrozenSets Introduction
 # DESCRIPTION
 # Describes the assigning, working, and method usages of frozensets
 # RESOURCES

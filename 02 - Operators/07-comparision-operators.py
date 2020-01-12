@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# Comparision Operators
 # DESCRIPTION
 # Describes how comparision operators are used
 # RESOURCES

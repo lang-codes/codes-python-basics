@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - Lists - List looping/iteration and List comprehensions
 # DESCRIPTION
 # Describes using loops on lists
 # RESOURCES

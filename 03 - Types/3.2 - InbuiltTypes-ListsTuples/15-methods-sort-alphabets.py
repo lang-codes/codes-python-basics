@@ -1,5 +1,5 @@
 # HEAD
-# Classes Abstract Classes
+# DataType - List method - sort()
 # DESCRIPTION
 # Describes usage of sort with both 
 #       options of 'key' function and 'reverse' boolean
