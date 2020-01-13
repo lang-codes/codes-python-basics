@@ -1,5 +1,5 @@
 # HEAD
-# Python FlowControl - Decision flow
+# Python FlowControl - Decision flow - if...elif...else blocks
 # DESCRIPTION
 # Describes usage of if...elif...else statement
 # 
@@ -43,6 +43,8 @@ if name == 'Mary':
         print('else if block alternate password')
     else:
         print('Wrong password.')
+else:
+    print("Unknown Value")
 
 # SINGLE LINE FLOWCONTROL IF STATEMENT
 # value_when_true if condition else value_when_false

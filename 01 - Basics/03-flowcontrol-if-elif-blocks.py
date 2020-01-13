@@ -1,5 +1,5 @@
 # HEAD
-# Python FlowControl - Decision flow
+# Python FlowControl - Decision flow - if...elif blocks
 # DESCRIPTION
 # Describes usage of if...elif statements 
 #       without need of else statement

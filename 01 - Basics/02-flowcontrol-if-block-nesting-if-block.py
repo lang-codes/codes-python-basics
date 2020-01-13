@@ -1,5 +1,5 @@
 # HEAD
-# Python FlowControl - Decision flow
+# Python FlowControl - Decision flow - if block
 # DESCRIPTION
 # Describes the decision making flow control usage
 # 
@@ -44,5 +44,3 @@ if name == 'Mary':
     print('Hello Mary')
     if password == 'swordfish':
         print('Access granted.')
-    else:
-        print('Wrong password.')
