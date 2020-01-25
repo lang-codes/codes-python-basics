@@ -24,6 +24,21 @@ if (type(name) is str):
 if name is None:
     print('is operator', name, 4)
 
+if name is name:
+    print('is operator', name, 5)
+
+if name is "test":
+    print('is operator', name, 6)
+
 # 'is not' operator checks inverse of 'is' operator
 if name is not int:
-    print('is not operator', name, 4)
+    print('is not operator', name, 7)
+
+# if name not == name (Error)
+# if name != name (Works)
+# if name is not name (Works)
+# if not name == name (Works)
+# if name (Works - name -> object)- 
+#       [ 0, undefined var == False ]
+#       [ -1, 1, defined var == True ]
+

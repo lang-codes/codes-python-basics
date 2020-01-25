@@ -53,6 +53,9 @@ print('quo:', quo)
 strjoin = "Test" + " and Tester"
 print('strjoin:', strjoin)
 
+# # Using operators for string and integer
+# strjoin = 1 + " and Tester"
+# print('int and str join: Error', strjoin)
 
 # Truthy value takes 1 as interger and Falsy as 0
 # Adding two boolean Truthy Values
