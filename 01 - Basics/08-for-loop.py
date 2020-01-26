@@ -64,16 +64,16 @@ for idx, item in enumerate(ls):
 for i in range(5):
     print('range(5): Will print five times ' + str(i))
 
-# # for(var i = 3, i<10; i++)
+# # for(var i = 2, i<6; i++)
 # # default increment == 1
 for i in range(2, 6):
     print('range(2, 6): Will print six times using start and finish - will include 1st and exclude last ' + str(i))
 
-# # for(var i = 3, i<10; i++)
+# # for(var i = 0, i<6; i++)
 for i in range(0, 6, 1):
     print('range(0, 6, 1): Will print two times using number of increments in the last ' + str(i))
 
-# # for(var i = 3, i<10; i+2)
+# # for(var i = 0, i<6; i+2)
 for i in range(0, 6, 2):
     print('range(0, 6, 2): Will print two times using number of increments in the last ' + str(i))
 
