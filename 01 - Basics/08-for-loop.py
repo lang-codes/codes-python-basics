@@ -87,7 +87,8 @@ for i in range(0, 6, 2):
 
 # Single line for expression statement to create dictionaries
 # STRUCTURE
-# [expressionUsingValue for Value in list]
+# {Value:Value for Value in list}
 
-{ i:i for i in [2,3,4,5,6,7]}
+diction = { i:i for i in [2,3,4,5,6,7]}
+print(diction)
 
