@@ -16,21 +16,22 @@
 # 1
 # # for item in iterator:
 # #   execution block
+# # Based on total number of items in the list
 
-# 2
-# # for item in range(int):
-# #   execution block
+ls = [2, 3, 4, 5, 6, 7, 8]
 
-# 3
-# # for item in range(startInt, endInt):
-# #   execution block
+# using iterator to get 
+#       a item which is iterated
+for item in ls:
+    print('for item in ls ' + str(item))
 
+# Usage of enumerate() function:
+# enumerate(list)
+# using enumerate(iterator) function to get 
+#       a tuple of (index, value) which can be destructured
+for idx, item in enumerate(ls):
+    print("enumerate(list) usage: for idx, item in enumerate(ls): ", item, idx)
 
-# # stepIncrement default is 1 in case of 
-# #       above two use cases if not specified
-# 4
-# # for item in range(startInt, endInt, stepIncrement):
-# #   execution block
 
 # Variations of range() function:
 # range(int)
@@ -38,33 +39,25 @@
 # range(start, stop, increment)
 
 
-# # Range
-# range(int) => no of iteration == range(0,10)
-# range(start, end)
-# range(start, end, step)
-
-# for it in range(10):
-#     print(it)
-
-# # for(var i = 0, i<10; i++)
-# for it in range(0, 10):
-#     print(it)
-
-# # # for(var i = 3, i<10; i++)
-# # default increment == 1
-# for it in range(3, 10):
-#     print(it)
+# 2
+# # for item in range(int):
+# #   execution block
+# # Based on total iterations specified
 
 
+# 3
+# # for item in range(startInt, endInt):
+# #   execution block
+# # Based on total iterations specified
 
-# for it in range(3, 10, 1):
-#     print(it)
 
+# # stepIncrement default is 1 in case of 
+# #       above two use cases if not specified
+# 4
+# # for item in range(startInt, endInt, stepIncrement):
+# #   execution block
+# # Based on total iterations specified
 
-# for it in range(3, 10, 2):
-#     print(it)
-# # no context probably
-# print(it)
 
 # # for(var i = 0, i<5; i++)
 # # default increment == 1
@@ -84,18 +77,13 @@ for i in range(0, 6, 1):
 for i in range(0, 6, 2):
     print('range(0, 6, 2): Will print two times using number of increments in the last ' + str(i))
 
-list = [2, 3, 4, 5, 6, 7, 8]
-
-# using enumerate(iterator) function to get 
-#       a tuple of (index, value) which can be destructured
-for idx, item in enumerate(list):
-    print("enumerate(list) usage", item, idx)
 
 # Single line for expression statement to create lists
 # STRUCTURE
 # [expressionUsingValue for Value in list]
 
 [print("Single line for loop [expressionUsingValue for Value in list]", i) for i in [2,3,4,5,6,7]]
+
 
 # Single line for expression statement to create dictionaries
 # STRUCTURE
