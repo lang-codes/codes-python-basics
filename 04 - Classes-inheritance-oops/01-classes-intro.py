@@ -2,35 +2,39 @@
 # Classes Introduction
 # DESCRIPTION
 # Describes how to create a blank block and a simple class
+#       Use classes to create objects
 # RESOURCES
 # 
 
-# Class is created with a class key and name of the class
-# USAGE
-# class NameOfClass:
-#       attributes/properties
-#       methods(self):
-#           execution block
+# # STRUCTURE
+# class ClassName():
+#     executionblock
+# obj = ClassName()
 
-# 'pass' creates an empty block
-# All attributes, properties, and methods in python are empty
-# __init__ is the constructor method for a class
-# init is triggered when the class instanciates
-# All methods including init takes self as the first argument
 
-class BlankClass:
-    # Pass statement creates an empty class
+# Creating a blank block with pass
+class BlankBlock():
     pass
 
-# Simple class with an attribute and simple method
-class SimpleClass:
-    val = "All atrributes, properties, and methods in python are public"
-    def printVal(self):
-        print(self.val)
+obj = BlankBlock()
 
-# Simple class with a __init__ constructor
-class SimpleClassWithInit:
-    def __init__(self, val):
-        self.val = val
-    def printVal(self):
-        print(self.val)
+# Creating a custom class
+# Class name - MyCustomClass
+
+
+class MyCustomClass():
+    # class attribute
+    attribute = "value"
+    # class method
+    def method(self):
+        return "Testing method"
+
+
+# Creating a class instance object
+obj = MyCustomClass()
+
+# Accessing a object attribute & methods
+print("Access obj.attribute", obj.attribute)
+
+# Accessing a object methods using invocation
+print("Access obj.method()", obj.method())

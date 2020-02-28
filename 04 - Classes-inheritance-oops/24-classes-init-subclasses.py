@@ -1,28 +1,14 @@
 # HEAD
-# Classes - __init_subclass__() method
+# Classes - __init_subclass__() method - variation two
 # DESCRIPTION
 # Describes usage of __init_subclass__ method
 # RESOURCES
 # 
-
-
-# # Variation
-# # https://docs.python.org/3/reference/datamodel.html#implementing-descriptors
-# class Philosopher:
-#     def __init_subclass__(cls, default_name, **kwargs):
-#         super().__init_subclass__(**kwargs)
-#         cls.default_name = default_name
-
-# class AustralianPhilosopher(Philosopher, default_name="Bruce"):
-#     pass
-
-# Sample codes
-# https://gist.github.com/pjeby/75ca26f8d2a7a0c68e30
-
 # VARIATION2 - Accessing superparent variable
 # https://stackoverflow.com/questions/53189980/accessing-superparent-class-variable-in-python
 # VARIATION3 - Static methods
 # https://stackabuse.com/object-oriented-programming-in-python/
+
 
 # Describing a base class called as WheelType
 class WheelType:

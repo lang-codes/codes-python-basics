@@ -27,7 +27,7 @@ class Hary(Om):
         return True
     def method(cls, args):
         print(args)
-        
+  
 o = Hary()
 # print("test" in o)
 o.method(10)

@@ -29,6 +29,7 @@ class C:
         del self._x
     x = property(getx, setx, delx, "I'm the 'x' property.")
 
+
 # If c is an instance of C, 
 # c.x will invoke the getter, 
 # c.x = value will invoke the setter and 

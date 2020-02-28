@@ -10,6 +10,7 @@
 # Concept taken from following
 # https://github.com/django/django/blob/master/django/db/models/base.py
 
+
 class ModelBase(type):
     # Attribute to be added
     def hello(cls):
@@ -38,6 +39,7 @@ class ModelBase(type):
         setattr(cls, "hello", self.hello)
         return cls
 
+
 class MyTest(metaclass=ModelBase):
         # Using a blank class since we are creating
         # an common attr from __call__ and not __new__
@@ -46,6 +48,8 @@ class MyTest(metaclass=ModelBase):
         # Creating a method testhello
         # def testhello(self):
         #     self.sayHello()
+
+
 obj = MyTest()
 obj.sayHello()
 # This will get overridden since we are creating a new object inside __call__ of metaclass
