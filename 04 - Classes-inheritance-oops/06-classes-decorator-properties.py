@@ -23,12 +23,12 @@ class GetterSetter():
     
     # Declaring Setter on a for attr
     @a.setter
-    def a(self):
-        return self.attr
+    def a(self, val):
+        self.attr = val
     
     # Declaring Deleter on a for attr
     @a.deleter
-    def a(self, val):
+    def a(self):
         del self.attr
 
 
