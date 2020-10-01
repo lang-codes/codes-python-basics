@@ -34,10 +34,10 @@
 #   execution block
 
 # Take input of name
-name = input()
+name = input("Enter name")
 
 # Take input of password
-password = input()
+password = input("Enter password")
 
 # Initiating a block of if set of statements
 if name == 'Mary':
